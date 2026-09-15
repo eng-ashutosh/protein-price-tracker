@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-09-14 14:28 IST
+**Last checked:** 2026-09-15 14:13 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -56,7 +56,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 10) | ₹900 | ₹765 | 15% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 15) | ₹1,350 | ₹1,107 | 18% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,119 | 30% | ₹223.86 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
-| Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹1,119 | 30% | ₹223.86 | ❌ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
+| Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹1,119 | 30% | ₹223.86 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
 | Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹1,962 | 37% | ₹196.25 | ❌ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
 | Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹1,962 | 37% | ₹196.25 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
 | Plant Protein - Strawberry Blast - 25 Servings | ₹3,115 | ₹1,962 | 37% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-strawberry-25-servings) |
@@ -70,21 +70,21 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
+| GNC 100% Whey + Nitro Surge (4lbs / Chocolate) | ₹6 | ₹6 | 3% | - | ❌ | [view](https://gnc.in/products/gnc-100-whey-nitro-surge) |
+| GNC 100% Whey + Nitro Surge (4lbs / Vanilla) | ₹6 | ₹6 | 3% | - | ❌ | [view](https://gnc.in/products/gnc-100-whey-nitro-surge) |
 | PP Protein Wafer Bar Mini 20gm (Chocolate / 20 gm) | ₹60 | ₹40 | 33% | ₹200.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
 | PP Protein Wafer Bar Mini 20gm (Coffee / 20 gm) | ₹60 | ₹40 | 33% | ₹200.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
 | PP Protein Wafer Bar Mini 20gm (Peanut Butter / 20 gm) | ₹60 | ₹40 | 33% | ₹200.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
-| GNC Protein Wafer Bar (Pack of 1 / Chocolate) | ₹120 | ₹54 | 55% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar) |
-| GNC Protein Wafer Bar (Pack of 1 / Peanut Butter) | ₹120 | ₹54 | 55% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar) |
-| GNC Protein Wafer Bar (Pack of 1 / Coffee) | ₹149 | ₹54 | 64% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar) |
 | GNC Protein Wafer Bar (Chocolate) (Pack of 1 / Chocolate) | ₹59 | ₹55 | 7% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-chocolate) |
 | GNC Protein Wafer Bar (Peanut butter) (Pack of 1 / Peanut Butter) | ₹59 | ₹55 | 7% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-peanut-butter) |
 | GNC Protein Wafer Bar (Coffee) (Pack of 1 / Coffee) | ₹59 | ₹55 | 7% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-coffee) |
 | GNC Protein Wafer Bar (40g / Chocolate) | ₹60 | ₹55 | 8% | ₹137.50 | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-upsell) |
-| GNC Select Fermented Yeast Protein Isolate (35 gm / Chocolate) | ₹149 | ₹59 | 60% | ₹168.57 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein) |
-| GNC Select Fermented Yeast Protein Isolate (35 gm / Coffee) | ₹149 | ₹59 | 60% | ₹168.57 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein) |
-| GNC Select Fermented Yeast Protein Isolate (35 gm / Vanilla) | ₹149 | ₹59 | 60% | ₹168.57 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein) |
 | GNC Select Fermented Yeast Protein Isolate (35gm) (35 gm / Chocolate) | ₹149 | ₹65 | 56% | ₹185.71 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein-isolate-35gm) |
 | GNC Select Fermented Yeast Protein Isolate (35gm) (35 gm / Coffee) | ₹149 | ₹65 | 56% | ₹185.71 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein-isolate-35gm) |
+| GNC Select Fermented Yeast Protein Isolate (35gm) (35 gm / Vanilla) | ₹149 | ₹65 | 56% | ₹185.71 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein-isolate-35gm) |
+| Protein Crunch Wafer Bar 40gm (Peanut Butter) | ₹80 | ₹69 | 14% | ₹172.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
+| Protein Crunch Wafer Bar 40gm (Cookies & Cream) | ₹80 | ₹69 | 14% | ₹172.50 | ❌ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
+| Protein Crunch Wafer Bar Cookies & Cream 40gm | ₹80 | ₹69 | 14% | ₹172.50 | ❌ | [view](https://gnc.in/products/protein-crunch-wafer-bar-cookies-cream-40gm) |
 
 ## MyFitness
 
@@ -138,10 +138,10 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | TruNativ Plant Based Everyday Protein - Protein You Can Cook With! | ₹699 | ₹599 | 14% | ₹363.03 | ✅ | [view](https://nutrabay.com/product/trunativ-plant-based-everyday-protein-protein-you-can-cook-with/?pId=9485223) |
 | Nutrabay Wellness Vegan Plant Protein Powder + Superfoods | ₹1,199 | ₹799 | 33% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878) |
 | Nutrabay Wellness Vegan Plant Protein Powder + Superfoods | ₹1,199 | ₹799 | 33% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878) |
-| Nutrabay Pure Pea Protein Isolate | ₹1,499 | ₹849 | 43% | ₹84.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
 | Ace Blend Plant Based Daily Protein | ₹1,935 | ₹849 | 56% | - | ✅ | [view](https://nutrabay.com/product/ace-blend-plant-based-daily-protein/?pId=6275363) |
 | Nutrabay BioAbsorb™ Whey Protein Powder - Clinically Tested 54% Better Protein Absorption - 26g Protein/Scoop - India's 1st Protein with ProDiFi™ for No Bloating - No Added Sugar | ₹859 | ₹859 | 0% | ₹474.59 | ✅ | [view](https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444) |
 | Nutrabay Hydrolyzed Gold Pea Protein | ₹889 | ₹889 | 0% | ₹177.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
+| Nutrabay Pure Pea Protein Isolate | ₹1,499 | ₹899 | 40% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
 | Nutrabay Hydrolyzed Gold Pea Protein | ₹1,049 | ₹899 | 14% | ₹179.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Hydrolyzed Gold Pea Protein | ₹1,049 | ₹899 | 14% | ₹179.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
