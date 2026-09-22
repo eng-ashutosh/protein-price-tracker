@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-09-21 14:30 IST
+**Last checked:** 2026-09-22 14:05 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -51,18 +51,18 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
 | 100% Pure & Natural Moringa Powder | ₹250 | ₹238 | 5% | - | ✅ | [view](https://in.fastandup.com/products/100-pure-natural-moringa-powder) |
-| Plant Protein - Assorted Pack | ₹270 | ₹243 | 10% | - | ❌ | [view](https://in.fastandup.com/products/fast-up-plant-protein-assorted-pack) |
+| Plant Protein - Assorted Pack | ₹270 | ₹243 | 10% | - | ✅ | [view](https://in.fastandup.com/products/fast-up-plant-protein-assorted-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 5) | ₹450 | ₹396 | 12% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 10) | ₹900 | ₹765 | 15% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 15) | ₹1,350 | ₹1,107 | 18% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
-| Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,199 | 25% | ₹239.80 | ❌ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
+| Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,199 | 25% | ₹239.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
 | Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹1,199 | 25% | ₹239.80 | ❌ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
 | Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹1,999 | 36% | ₹199.90 | ✅ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
 | Plant Protein - Kesar Kulfi - 1kg | ₹3,115 | ₹1,999 | 36% | ₹199.90 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-special-festive-pack) |
 | Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹1,999 | 36% | ₹199.90 | ❌ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
 | Plant Protein - Strawberry Blast - 25 Servings | ₹3,115 | ₹1,999 | 36% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-strawberry-25-servings) |
 | Plant Protein - Rich Chocolate - 1kg | ₹3,115 | ₹1,999 | 36% | ₹199.90 | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg) |
-| Plant Protein - Cookies & Cream - 500g Pack of 2 | ₹3,198 | ₹2,079 | 35% | ₹415.80 | ❌ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g-pack-of-2) |
+| Plant Protein - Cookies & Cream - 500g Pack of 2 | ₹3,198 | ₹2,079 | 35% | ₹415.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g-pack-of-2) |
 | Daily Fiber + Plant Protein Rich Chocolate Combo | ₹3,715 | ₹2,229 | 40% | - | ✅ | [view](https://in.fastandup.com/products/daily-fiber-plant-protein-rich-chocolate-combo) |
 | Plant Protein Rich Chocolate - 1kg pouch+ Plant Protein Cookies Cream- 1kg Pouch | ₹6,230 | ₹3,426 | 45% | ₹342.65 | ❌ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg-pouch-plant-protein-cookies-cream-1kg-pouch) |
 
@@ -131,7 +131,6 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹49 | 29% | ₹122.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
-| Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹59 | 14% | ₹147.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹69 | 0% | ₹172.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹600 | ₹499 | 17% | ₹346.53 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | Nutrabay Pure Pea Protein Isolate | ₹669 | ₹599 | 10% | ₹119.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
@@ -143,6 +142,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Pure Pea Protein Isolate | ₹1,349 | ₹849 | 37% | ₹84.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
 | Ace Blend Plant Based Daily Protein | ₹1,935 | ₹849 | 56% | - | ✅ | [view](https://nutrabay.com/product/ace-blend-plant-based-daily-protein/?pId=6275363) |
+| Nakpro Nutrition Platinum Soy Protein Isolate | ₹2,300 | ₹899 | 61% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475) |
 | Optimum Nutrition (ON) Gold Standard Whey Protein Powder | ₹940 | ₹940 | 0% | ₹606.45 | ✅ | [view](https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481) |
 | Naturaltein Plant Protein | ₹3,000 | ₹949 | 68% | ₹189.80 | ✅ | [view](https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490) |
 

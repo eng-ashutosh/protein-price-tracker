@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21 14:30 IST",
+  "checked_at": "2026-09-22 14:05 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -10,18 +10,6 @@
       "discount_pct": 29.0,
       "size_g": 40.0,
       "price_per_100g": 122.5,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
-      "brand": "Nutrabay",
-      "mrp": 69,
-      "price": 59,
-      "discount_pct": 14.5,
-      "size_g": 40.0,
-      "price_per_100g": 147.5,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
@@ -159,6 +147,18 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Nakpro Nutrition Platinum Soy Protein Isolate",
+      "brand": "Nakpro Nutrition",
+      "mrp": 2300,
+      "price": 899,
+      "discount_pct": 60.9,
+      "size_g": 1000.0,
+      "price_per_100g": 89.9,
+      "url": "https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
       "brand": "Optimum Nutrition",
       "mrp": 940,
@@ -203,7 +203,7 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/fast-up-plant-protein-assorted-pack",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Fast&Up",
@@ -251,7 +251,7 @@
       "size_g": 500.0,
       "price_per_100g": 239.8,
       "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Fast&Up",
@@ -335,7 +335,7 @@
       "size_g": 500.0,
       "price_per_100g": 415.8,
       "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g-pack-of-2",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Fast&Up",
