@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22 14:05 IST",
+  "checked_at": "2026-09-23 14:07 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -10,6 +10,18 @@
       "discount_pct": 29.0,
       "size_g": 40.0,
       "price_per_100g": 122.5,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
+      "brand": "Nutrabay",
+      "mrp": 69,
+      "price": 59,
+      "discount_pct": 14.5,
+      "size_g": 40.0,
+      "price_per_100g": 147.5,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
@@ -143,18 +155,6 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://nutrabay.com/product/ace-blend-plant-based-daily-protein/?pId=6275363",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nakpro Nutrition Platinum Soy Protein Isolate",
-      "brand": "Nakpro Nutrition",
-      "mrp": 2300,
-      "price": 899,
-      "discount_pct": 60.9,
-      "size_g": 1000.0,
-      "price_per_100g": 89.9,
-      "url": "https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475",
       "in_stock": true
     },
     {
@@ -927,6 +927,18 @@
     },
     {
       "source": "MyFitness",
+      "name": "MyFitness Peanut Butter Junior - Chocolate | 25% Protein | Crunchy| Healthy Chocolate Spread for Kids (510g)",
+      "brand": "MYFITNESS",
+      "mrp": 339.0,
+      "price": 259.0,
+      "discount_pct": 23.6,
+      "size_g": 610,
+      "price_per_100g": 42.46,
+      "url": "https://myfitness.co.in/products/myfitness-peanut-butter-chocolate-crunchy-junior-510g",
+      "in_stock": false
+    },
+    {
+      "source": "MyFitness",
       "name": "MyFitness Peanut Butter - Classic Zero | 28% Protein | Extra Crunchy | Zero Sugar Peanut Spread (510 g)",
       "brand": "myfitness-official-store",
       "mrp": 349.0,
@@ -1070,18 +1082,6 @@
       "in_stock": true
     },
     {
-      "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Dark Chocolate | 30% Protein | Crunchy | Rich Chocolate Peanut Butter Spread (510 g)",
-      "brand": "MYFITNESS",
-      "mrp": 399.0,
-      "price": 319.0,
-      "discount_pct": 20.1,
-      "size_g": 610,
-      "price_per_100g": 52.3,
-      "url": "https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-crunchy",
-      "in_stock": true
-    },
-    {
       "source": "Naturaltein",
       "name": "The Protein Dessert E-Cook Book by Naturaltein",
       "brand": "naturaltein",
@@ -1115,7 +1115,7 @@
       "size_g": 500.0,
       "price_per_100g": 222.4,
       "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Naturaltein",
@@ -1199,7 +1199,7 @@
       "size_g": 1000.0,
       "price_per_100g": 160.0,
       "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Naturaltein",
