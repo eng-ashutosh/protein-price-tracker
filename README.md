@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-09-24 14:00 IST
+**Last checked:** 2026-09-25 14:21 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -55,16 +55,16 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 5) | ₹450 | ₹396 | 12% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 10) | ₹900 | ₹765 | 15% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 15) | ₹1,350 | ₹1,107 | 18% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
+| Yeast Protein - Rich Chocolate - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ❌ | [view](https://in.fastandup.com/products/yeast-protein-rich-chocolate-500g) |
+| Yeast Protein - Cookies & Cream - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-cookies-cream-500g) |
 | Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,199 | 25% | ₹239.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
 | Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹1,199 | 25% | ₹239.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
 | Daily Fiber + Plant Protein Rich Chocolate Combo | ₹3,715 | ₹2,229 | 40% | - | ✅ | [view](https://in.fastandup.com/products/daily-fiber-plant-protein-rich-chocolate-combo) |
+| Yeast Protein - Unflavoured - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-unflavoured-1kg) |
+| Yeast Protein - Rich Chocolate - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-rich-chocolate-1kg) |
+| Yeast Protein - Cookies & Cream - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-cookies-cream-1kg) |
 | Plant Protein - Cookies & Cream - 500g Pack of 2 | ₹3,198 | ₹2,335 | 27% | ₹467.00 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g-pack-of-2) |
-| Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹2,335 | 25% | ₹233.50 | ❌ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
-| Plant Protein - Kesar Kulfi - 1kg | ₹3,115 | ₹2,335 | 25% | ₹233.50 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-special-festive-pack) |
-| Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹2,335 | 25% | ₹233.50 | ❌ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
-| Plant Protein - Strawberry Blast - 25 Servings | ₹3,115 | ₹2,335 | 25% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-strawberry-25-servings) |
-| Plant Protein - Rich Chocolate - 1kg | ₹3,115 | ₹2,335 | 25% | ₹233.50 | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg) |
-| Plant Protein Rich Chocolate - 1kg pouch+ Plant Protein Cookies Cream- 1kg Pouch | ₹6,230 | ₹3,426 | 45% | ₹342.65 | ❌ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg-pouch-plant-protein-cookies-cream-1kg-pouch) |
+| Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹2,335 | 25% | ₹233.50 | ✅ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
 
 ## GNC India
 
@@ -92,7 +92,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 |---|---:|---:|---:|---:|:---:|---|
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (227g) | ₹159 | ₹149 | 6% | ₹65.64 | ✅ | [view](https://myfitness.co.in/products/chocolate-crispy) |
 | Pro.Fitness High Protein Chocolate Oats - Dark Chocolate - Healthy Oats With Nuts, Seeds & Added Whey (375g) | ₹339 | ₹219 | 35% | ₹58.40 | ✅ | [view](https://myfitness.co.in/products/high-protein-oats-900g-27g-protein) |
-| MyFitness Peanut Butter Junior - Chocolate - 25% Protein - Crunchy- Healthy Chocolate Spread for Kids (510g) | ₹339 | ₹259 | 24% | ₹42.46 | ❌ | [view](https://myfitness.co.in/products/myfitness-peanut-butter-chocolate-crunchy-junior-510g) |
+| MyFitness Peanut Butter Junior - Chocolate - 25% Protein - Crunchy- Healthy Chocolate Spread for Kids (510g) | ₹339 | ₹259 | 24% | ₹42.46 | ✅ | [view](https://myfitness.co.in/products/myfitness-peanut-butter-chocolate-crunchy-junior-510g) |
 | MyFitness Peanut Butter - Classic Zero - 28% Protein - Extra Crunchy - Zero Sugar Peanut Spread (510 g) | ₹349 | ₹275 | 21% | ₹53.92 | ✅ | [view](https://myfitness.co.in/products/myfitness-zero-peanut-butter-crunchy-510g) |
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crunchy - Chocolate Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-crunchy) |
 | MyFitness Peanut Butter - Natural Unsweetened - 31% Protein - Crunchy - Zero Sugar Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-all-natural-peanut-butter-crunchy) |
@@ -131,7 +131,6 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹49 | 29% | ₹122.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
-| Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹59 | 14% | ₹147.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹69 | 0% | ₹172.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹600 | ₹499 | 17% | ₹346.53 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | Nutrabay Pure Pea Protein Isolate | ₹669 | ₹599 | 10% | ₹119.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
@@ -145,16 +144,17 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Ace Blend Plant Based Daily Protein | ₹1,935 | ₹849 | 56% | - | ✅ | [view](https://nutrabay.com/product/ace-blend-plant-based-daily-protein/?pId=6275363) |
 | Optimum Nutrition (ON) Gold Standard Whey Protein Powder | ₹940 | ₹940 | 0% | ₹606.45 | ✅ | [view](https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481) |
 | Naturaltein Plant Protein | ₹3,000 | ₹949 | 68% | ₹189.80 | ✅ | [view](https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490) |
+| Naturaltein Plant Protein | ₹3,000 | ₹949 | 68% | ₹189.80 | ✅ | [view](https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490) |
 
 ## OZiva
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
+| Plant Protein + Pro-Digest (Chocolate) | ₹139 | ₹139 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |
 | Plant Protein + Pro-Digest (Mango) | ₹139 | ₹139 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
 | Pro-Collagen Protein Peptides Caramel - 250g | ₹799 | ₹433 | 46% | ₹173.20 | ✅ | [view](https://oziva.in/products/pro-collagen-protein-peptides-caramel-250g) |
 | Vegan Collagen, Clinically Proven (Watermelon / Starter Pack-125g) | ₹499 | ₹459 | 8% | ₹367.20 | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
 | Plant Protein + Pro-Digest (Assorted) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
-| Plant Protein + Pro-Digest (Chocolate) | ₹699 | ₹699 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |
 | Plant Protein + Pro-Digest (Strawberry) | ₹699 | ₹699 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |
 | Plant Protein + Pro-Digest (Vanilla) | ₹699 | ₹699 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |
 | Plant Protein + Pro-Digest (Assorted / Starter Pack) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg) |
