@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25 14:21 IST",
+  "checked_at": "2026-09-26 14:08 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -10,6 +10,18 @@
       "discount_pct": 29.0,
       "size_g": 40.0,
       "price_per_100g": 122.5,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
+      "brand": "Nutrabay",
+      "mrp": 69,
+      "price": 59,
+      "discount_pct": 14.5,
+      "size_g": 40.0,
+      "price_per_100g": 147.5,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
@@ -155,18 +167,6 @@
       "size_g": 155.0,
       "price_per_100g": 606.45,
       "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Naturaltein Plant Protein",
-      "brand": "Naturaltein",
-      "mrp": 3000,
-      "price": 949,
-      "discount_pct": 68.4,
-      "size_g": 500.0,
-      "price_per_100g": 189.8,
-      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
       "in_stock": true
     },
     {
@@ -387,6 +387,18 @@
     },
     {
       "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest (Vanilla)",
+      "brand": "OZiva",
+      "mrp": 139.0,
+      "price": 139.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest",
+      "in_stock": false
+    },
+    {
+      "source": "OZiva",
       "name": "Pro-Collagen Protein Peptides Caramel | 250g",
       "brand": "OZiva",
       "mrp": 799.0,
@@ -424,18 +436,6 @@
     {
       "source": "OZiva",
       "name": "Plant Protein + Pro-Digest (Strawberry)",
-      "brand": "OZiva",
-      "mrp": 699.0,
-      "price": 699.0,
-      "discount_pct": 0.0,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://oziva.in/products/plant-protein-pro-digest",
-      "in_stock": false
-    },
-    {
-      "source": "OZiva",
-      "name": "Plant Protein + Pro-Digest (Vanilla)",
       "brand": "OZiva",
       "mrp": 699.0,
       "price": 699.0,
