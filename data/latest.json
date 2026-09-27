@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26 14:08 IST",
+  "checked_at": "2026-09-27 14:48 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -203,7 +203,7 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/fast-up-plant-protein-assorted-pack",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Fast&Up",
@@ -755,7 +755,7 @@
       "size_g": 500,
       "price_per_100g": null,
       "url": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "AS-IT-IS Nutrition",
@@ -927,18 +927,6 @@
     },
     {
       "source": "MyFitness",
-      "name": "MyFitness Peanut Butter Junior - Chocolate | 25% Protein | Crunchy| Healthy Chocolate Spread for Kids (510g)",
-      "brand": "MYFITNESS",
-      "mrp": 339.0,
-      "price": 259.0,
-      "discount_pct": 23.6,
-      "size_g": 610,
-      "price_per_100g": 42.46,
-      "url": "https://myfitness.co.in/products/myfitness-peanut-butter-chocolate-crunchy-junior-510g",
-      "in_stock": true
-    },
-    {
-      "source": "MyFitness",
       "name": "MyFitness Peanut Butter - Classic Zero | 28% Protein | Extra Crunchy | Zero Sugar Peanut Spread (510 g)",
       "brand": "myfitness-official-store",
       "mrp": 349.0,
@@ -1079,6 +1067,18 @@
       "size_g": 610,
       "price_per_100g": 52.3,
       "url": "https://myfitness.co.in/products/myfitness-peanut-butter-dark-chocolate-29-protein-crispy-rich-chocolate-peanut-butter-spread",
+      "in_stock": true
+    },
+    {
+      "source": "MyFitness",
+      "name": "MyFitness Peanut Butter - Dark Chocolate | 30% Protein | Crunchy | Rich Chocolate Peanut Butter Spread (510 g)",
+      "brand": "MYFITNESS",
+      "mrp": 399.0,
+      "price": 319.0,
+      "discount_pct": 20.1,
+      "size_g": 610,
+      "price_per_100g": 52.3,
+      "url": "https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-crunchy",
       "in_stock": true
     },
     {
