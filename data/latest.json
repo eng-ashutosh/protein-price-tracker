@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27 14:48 IST",
+  "checked_at": "2026-09-28 15:20 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -159,23 +159,23 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
-      "brand": "Optimum Nutrition",
-      "mrp": 940,
-      "price": 940,
-      "discount_pct": 0.0,
-      "size_g": 155.0,
-      "price_per_100g": 606.45,
-      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
+      "name": "Naturaltein Plant Protein",
+      "brand": "Naturaltein",
+      "mrp": 3000,
+      "price": 949,
+      "discount_pct": 68.4,
+      "size_g": 500.0,
+      "price_per_100g": 189.8,
+      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
       "in_stock": true
     },
     {
       "source": "Nutrabay",
       "name": "Naturaltein Plant Protein",
       "brand": "Naturaltein",
-      "mrp": 3000,
+      "mrp": 2225,
       "price": 949,
-      "discount_pct": 68.4,
+      "discount_pct": 57.3,
       "size_g": 500.0,
       "price_per_100g": 189.8,
       "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
@@ -603,6 +603,18 @@
     },
     {
       "source": "Wellbeing Nutrition",
+      "name": "Whey Protein Blend Swiss Chocolate Sachets (Pack of 6)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1399.0,
+      "price": 1399.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://wellbeingnutrition.com/products/whey-protein-blend-swiss-chocolate-sachets",
+      "in_stock": false
+    },
+    {
+      "source": "Wellbeing Nutrition",
       "name": "Whey Protein Isolate + Concentrate Mango Sachets (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1399.0,
@@ -708,18 +720,6 @@
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/whey-protein-isolate-concentrate-mango-sachets",
       "in_stock": false
-    },
-    {
-      "source": "Wellbeing Nutrition",
-      "name": "Plant Protein 22g | 907g | 3B CFU Probiotics | French Vanilla Caramel (Pack of 1)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 3399.0,
-      "price": 3229.0,
-      "discount_pct": 5.0,
-      "size_g": 907.0,
-      "price_per_100g": 356.01,
-      "url": "https://wellbeingnutrition.com/products/vegan-protein-french-vanilla-caramel-copy",
-      "in_stock": true
     },
     {
       "source": "AS-IT-IS Nutrition",
@@ -927,6 +927,18 @@
     },
     {
       "source": "MyFitness",
+      "name": "MyFitness Peanut Butter Junior - Chocolate | 25% Protein | Crunchy| Healthy Chocolate Spread for Kids (510g)",
+      "brand": "MYFITNESS",
+      "mrp": 339.0,
+      "price": 259.0,
+      "discount_pct": 23.6,
+      "size_g": 610,
+      "price_per_100g": 42.46,
+      "url": "https://myfitness.co.in/products/myfitness-peanut-butter-chocolate-crunchy-junior-510g",
+      "in_stock": true
+    },
+    {
+      "source": "MyFitness",
       "name": "MyFitness Peanut Butter - Classic Zero | 28% Protein | Extra Crunchy | Zero Sugar Peanut Spread (510 g)",
       "brand": "myfitness-official-store",
       "mrp": 349.0,
@@ -1067,18 +1079,6 @@
       "size_g": 610,
       "price_per_100g": 52.3,
       "url": "https://myfitness.co.in/products/myfitness-peanut-butter-dark-chocolate-29-protein-crispy-rich-chocolate-peanut-butter-spread",
-      "in_stock": true
-    },
-    {
-      "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Dark Chocolate | 30% Protein | Crunchy | Rich Chocolate Peanut Butter Spread (510 g)",
-      "brand": "MYFITNESS",
-      "mrp": 399.0,
-      "price": 319.0,
-      "discount_pct": 20.1,
-      "size_g": 610,
-      "price_per_100g": 52.3,
-      "url": "https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-crunchy",
       "in_stock": true
     },
     {
@@ -1266,10 +1266,10 @@
       "name": "PP Protein Wafer Bar Mini 20gm (Chocolate / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
-      "price": 40.0,
-      "discount_pct": 33.3,
+      "price": 28.0,
+      "discount_pct": 53.3,
       "size_g": 20.0,
-      "price_per_100g": 200.0,
+      "price_per_100g": 140.0,
       "url": "https://gnc.in/products/pp-protein-wafer-bar-mini-20gm",
       "in_stock": true
     },
@@ -1278,10 +1278,10 @@
       "name": "PP Protein Wafer Bar Mini 20gm (Coffee / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
-      "price": 40.0,
-      "discount_pct": 33.3,
+      "price": 28.0,
+      "discount_pct": 53.3,
       "size_g": 20.0,
-      "price_per_100g": 200.0,
+      "price_per_100g": 140.0,
       "url": "https://gnc.in/products/pp-protein-wafer-bar-mini-20gm",
       "in_stock": true
     },
@@ -1290,10 +1290,10 @@
       "name": "PP Protein Wafer Bar Mini 20gm (Peanut Butter / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
-      "price": 40.0,
-      "discount_pct": 33.3,
+      "price": 28.0,
+      "discount_pct": 53.3,
       "size_g": 20.0,
-      "price_per_100g": 200.0,
+      "price_per_100g": 140.0,
       "url": "https://gnc.in/products/pp-protein-wafer-bar-mini-20gm",
       "in_stock": true
     },
