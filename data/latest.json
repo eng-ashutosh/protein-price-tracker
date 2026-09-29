@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-28 15:20 IST",
+  "checked_at": "2026-09-29 15:22 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -606,12 +606,12 @@
       "name": "Whey Protein Blend Swiss Chocolate Sachets (Pack of 6)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1399.0,
-      "price": 1399.0,
-      "discount_pct": 0.0,
+      "price": 1329.0,
+      "discount_pct": 5.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/whey-protein-blend-swiss-chocolate-sachets",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
@@ -630,10 +630,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Dark Chocolate Hazelnut (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1709.0,
-      "discount_pct": 5.0,
+      "price": 1619.0,
+      "discount_pct": 10.0,
       "size_g": 500.0,
-      "price_per_100g": 341.8,
+      "price_per_100g": 323.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut",
       "in_stock": true
     },
@@ -642,10 +642,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Italian Cafe Mocha (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1709.0,
-      "discount_pct": 5.0,
+      "price": 1619.0,
+      "discount_pct": 10.0,
       "size_g": 500.0,
-      "price_per_100g": 341.8,
+      "price_per_100g": 323.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-italian-cafe-mocha",
       "in_stock": false
     },
@@ -654,10 +654,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Belgian Dark Chocolate (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1709.0,
-      "discount_pct": 5.0,
+      "price": 1619.0,
+      "discount_pct": 10.0,
       "size_g": 500.0,
-      "price_per_100g": 341.8,
+      "price_per_100g": 323.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate",
       "in_stock": true
     },
@@ -666,10 +666,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | French Vanilla Caramel (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1709.0,
-      "discount_pct": 5.0,
+      "price": 1619.0,
+      "discount_pct": 10.0,
       "size_g": 500.0,
-      "price_per_100g": 341.8,
+      "price_per_100g": 323.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-french-vanilla-caramel",
       "in_stock": true
     },
@@ -678,10 +678,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Canadian Mixed Berry (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1709.0,
-      "discount_pct": 5.0,
+      "price": 1619.0,
+      "discount_pct": 10.0,
       "size_g": 500.0,
-      "price_per_100g": 341.8,
+      "price_per_100g": 323.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-canadian-mixed-berry",
       "in_stock": true
     },
@@ -690,8 +690,8 @@
       "name": "Her Superfood Plant Protein | Chocolate Peanut Butter (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1709.0,
-      "discount_pct": 5.0,
+      "price": 1619.0,
+      "discount_pct": 10.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-for-women",
@@ -702,8 +702,8 @@
       "name": "Superfood Plant Protein | British Banoffee Pie (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1709.0,
-      "discount_pct": 5.0,
+      "price": 1619.0,
+      "discount_pct": 10.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-in-banoffee-pie",
@@ -755,7 +755,7 @@
       "size_g": 500,
       "price_per_100g": null,
       "url": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "AS-IT-IS Nutrition",
@@ -939,6 +939,18 @@
     },
     {
       "source": "MyFitness",
+      "name": "Pro.Fitness Rolled Oats | 13% Protein | Healthy Oats With High Fiber and Zero Cholesterol (900g)",
+      "brand": "MYFITNESS",
+      "mrp": 320.0,
+      "price": 269.0,
+      "discount_pct": 15.9,
+      "size_g": 900,
+      "price_per_100g": null,
+      "url": "https://myfitness.co.in/products/pro-fitness-rolled-oats-900g",
+      "in_stock": true
+    },
+    {
+      "source": "MyFitness",
       "name": "MyFitness Peanut Butter - Classic Zero | 28% Protein | Extra Crunchy | Zero Sugar Peanut Spread (510 g)",
       "brand": "myfitness-official-store",
       "mrp": 349.0,
@@ -1067,18 +1079,6 @@
       "size_g": 610,
       "price_per_100g": 49.02,
       "url": "https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth",
-      "in_stock": true
-    },
-    {
-      "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Dark Chocolate | 29% Protein | Crispy | Rich Chocolate Peanut Butter Spread (510 g)",
-      "brand": "MYFITNESS",
-      "mrp": 399.0,
-      "price": 319.0,
-      "discount_pct": 20.1,
-      "size_g": 610,
-      "price_per_100g": 52.3,
-      "url": "https://myfitness.co.in/products/myfitness-peanut-butter-dark-chocolate-29-protein-crispy-rich-chocolate-peanut-butter-spread",
       "in_stock": true
     },
     {
