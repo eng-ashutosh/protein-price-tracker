@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29 15:22 IST",
+  "checked_at": "2026-09-30 15:15 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -251,7 +251,7 @@
       "size_g": 500.0,
       "price_per_100g": 233.8,
       "url": "https://in.fastandup.com/products/yeast-protein-rich-chocolate-500g",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Fast&Up",
@@ -606,8 +606,8 @@
       "name": "Whey Protein Blend Swiss Chocolate Sachets (Pack of 6)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1399.0,
-      "price": 1329.0,
-      "discount_pct": 5.0,
+      "price": 1259.0,
+      "discount_pct": 10.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/whey-protein-blend-swiss-chocolate-sachets",
@@ -630,10 +630,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Dark Chocolate Hazelnut (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1529.0,
+      "discount_pct": 15.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 305.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut",
       "in_stock": true
     },
@@ -642,10 +642,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Italian Cafe Mocha (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1529.0,
+      "discount_pct": 15.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 305.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-italian-cafe-mocha",
       "in_stock": false
     },
@@ -654,10 +654,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Belgian Dark Chocolate (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1529.0,
+      "discount_pct": 15.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 305.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate",
       "in_stock": true
     },
@@ -666,10 +666,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | French Vanilla Caramel (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1529.0,
+      "discount_pct": 15.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 305.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-french-vanilla-caramel",
       "in_stock": true
     },
@@ -678,10 +678,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Canadian Mixed Berry (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1529.0,
+      "discount_pct": 15.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 305.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-canadian-mixed-berry",
       "in_stock": true
     },
@@ -690,8 +690,8 @@
       "name": "Her Superfood Plant Protein | Chocolate Peanut Butter (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1529.0,
+      "discount_pct": 15.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-for-women",
@@ -702,8 +702,8 @@
       "name": "Superfood Plant Protein | British Banoffee Pie (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1529.0,
+      "discount_pct": 15.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-in-banoffee-pie",
@@ -927,18 +927,6 @@
     },
     {
       "source": "MyFitness",
-      "name": "MyFitness Peanut Butter Junior - Chocolate | 25% Protein | Crunchy| Healthy Chocolate Spread for Kids (510g)",
-      "brand": "MYFITNESS",
-      "mrp": 339.0,
-      "price": 259.0,
-      "discount_pct": 23.6,
-      "size_g": 610,
-      "price_per_100g": 42.46,
-      "url": "https://myfitness.co.in/products/myfitness-peanut-butter-chocolate-crunchy-junior-510g",
-      "in_stock": true
-    },
-    {
-      "source": "MyFitness",
       "name": "Pro.Fitness Rolled Oats | 13% Protein | Healthy Oats With High Fiber and Zero Cholesterol (900g)",
       "brand": "MYFITNESS",
       "mrp": 320.0,
@@ -1079,6 +1067,18 @@
       "size_g": 610,
       "price_per_100g": 49.02,
       "url": "https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth",
+      "in_stock": true
+    },
+    {
+      "source": "MyFitness",
+      "name": "MyFitness Peanut Butter - Dark Chocolate | 29% Protein | Crispy | Rich Chocolate Peanut Butter Spread (510 g)",
+      "brand": "MYFITNESS",
+      "mrp": 399.0,
+      "price": 319.0,
+      "discount_pct": 20.1,
+      "size_g": 610,
+      "price_per_100g": 52.3,
+      "url": "https://myfitness.co.in/products/myfitness-peanut-butter-dark-chocolate-29-protein-crispy-rich-chocolate-peanut-butter-spread",
       "in_stock": true
     },
     {
@@ -1263,7 +1263,7 @@
     },
     {
       "source": "GNC India",
-      "name": "PP Protein Wafer Bar Mini 20gm (Chocolate / 20 gm)",
+      "name": "Protein Wafer Bar Mini (Chocolate / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
       "price": 28.0,
@@ -1275,7 +1275,7 @@
     },
     {
       "source": "GNC India",
-      "name": "PP Protein Wafer Bar Mini 20gm (Coffee / 20 gm)",
+      "name": "Protein Wafer Bar Mini (Coffee / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
       "price": 28.0,
@@ -1287,7 +1287,7 @@
     },
     {
       "source": "GNC India",
-      "name": "PP Protein Wafer Bar Mini 20gm (Peanut Butter / 20 gm)",
+      "name": "Protein Wafer Bar Mini (Peanut Butter / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
       "price": 28.0,
