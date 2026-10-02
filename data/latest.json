@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01 15:41 IST",
+  "checked_at": "2026-10-02 15:20 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -159,18 +159,6 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Velbiom Happy Cultures Tastiest Plant Protein",
-      "brand": "Velbiom",
-      "mrp": 1699,
-      "price": 949,
-      "discount_pct": 44.1,
-      "size_g": 505.0,
-      "price_per_100g": 187.92,
-      "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
       "name": "Nutrabay Pure Soy Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 1349,
@@ -179,6 +167,18 @@
       "size_g": 1000.0,
       "price_per_100g": 99.9,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Naturaltein Plant Protein",
+      "brand": "Naturaltein",
+      "mrp": 3000,
+      "price": 999,
+      "discount_pct": 66.7,
+      "size_g": 500.0,
+      "price_per_100g": 199.8,
+      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
       "in_stock": true
     },
     {
@@ -251,7 +251,7 @@
       "size_g": 500.0,
       "price_per_100g": 233.8,
       "url": "https://in.fastandup.com/products/yeast-protein-coffee-500g",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Fast&Up",
@@ -323,7 +323,7 @@
       "size_g": 1000.0,
       "price_per_100g": 224.9,
       "url": "https://in.fastandup.com/products/yeast-protein-coffee-1kg",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Fast&Up",
@@ -606,8 +606,8 @@
       "name": "Whey Protein Blend Swiss Chocolate Sachets (Pack of 6)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1399.0,
-      "price": 1259.0,
-      "discount_pct": 10.0,
+      "price": 1329.0,
+      "discount_pct": 5.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/whey-protein-blend-swiss-chocolate-sachets",
@@ -755,7 +755,7 @@
       "size_g": 500,
       "price_per_100g": null,
       "url": "https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "AS-IT-IS Nutrition",
