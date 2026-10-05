@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04 15:21 IST",
+  "checked_at": "2026-10-05 16:00 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -159,6 +159,18 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Velbiom Happy Cultures Tastiest Plant Protein",
+      "brand": "Velbiom",
+      "mrp": 1699,
+      "price": 949,
+      "discount_pct": 44.1,
+      "size_g": 505.0,
+      "price_per_100g": 187.92,
+      "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "Nutrabay Pure Soy Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 1349,
@@ -167,18 +179,6 @@
       "size_g": 1000.0,
       "price_per_100g": 99.9,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Naturaltein Plant Protein",
-      "brand": "Naturaltein",
-      "mrp": 3000,
-      "price": 999,
-      "discount_pct": 66.7,
-      "size_g": 500.0,
-      "price_per_100g": 199.8,
-      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
       "in_stock": true
     },
     {
@@ -299,7 +299,7 @@
       "size_g": 500.0,
       "price_per_100g": 239.8,
       "url": "https://in.fastandup.com/products/plant-protein-powder-500gms",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Fast&Up",
