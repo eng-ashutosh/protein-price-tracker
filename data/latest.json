@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-06 15:52 IST",
+  "checked_at": "2026-10-07 15:49 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -42,11 +42,23 @@
       "name": "Nutrabay Pure Pea Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 669,
-      "price": 599,
-      "discount_pct": 10.5,
+      "price": 549,
+      "discount_pct": 17.9,
       "size_g": 500.0,
-      "price_per_100g": 119.8,
+      "price_per_100g": 109.8,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay BioAbsorb™ Whey Protein Powder | Clinically Tested 54% Better Protein Absorption | 26g Protein/Scoop | India's 1st Protein with ProDiFi™ for No Bloating | No Added Sugar",
+      "brand": "Nutrabay",
+      "mrp": 859,
+      "price": 599,
+      "discount_pct": 30.3,
+      "size_g": 181.0,
+      "price_per_100g": 330.94,
+      "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444",
       "in_stock": true
     },
     {
@@ -70,30 +82,6 @@
       "discount_pct": 41.7,
       "size_g": 500.0,
       "price_per_100g": 139.8,
-      "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay BioAbsorb™ Whey Protein Powder | Clinically Tested 54% Better Protein Absorption | 26g Protein/Scoop | India's 1st Protein with ProDiFi™ for No Bloating | No Added Sugar",
-      "brand": "Nutrabay",
-      "mrp": 859,
-      "price": 749,
-      "discount_pct": 12.8,
-      "size_g": 181.0,
-      "price_per_100g": 413.81,
-      "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Wellness Vegan Plant Protein Powder + Superfoods",
-      "brand": "Nutrabay",
-      "mrp": 1199,
-      "price": 799,
-      "discount_pct": 33.4,
-      "size_g": 500.0,
-      "price_per_100g": 159.8,
       "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
       "in_stock": true
     },
@@ -143,6 +131,18 @@
       "size_g": 1000.0,
       "price_per_100g": 84.9,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Pure Soy Protein Isolate",
+      "brand": "Nutrabay",
+      "mrp": 1349,
+      "price": 899,
+      "discount_pct": 33.4,
+      "size_g": 1000.0,
+      "price_per_100g": 89.9,
+      "url": "https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049",
       "in_stock": true
     },
     {
@@ -927,18 +927,6 @@
     },
     {
       "source": "MyFitness",
-      "name": "MyFitness x Wonder Woman | Original Peanut Butter Smooth 510g | 29% Protein | High Protein (510g)",
-      "brand": "MYFITNESS",
-      "mrp": 379.0,
-      "price": 259.0,
-      "discount_pct": 31.7,
-      "size_g": 510,
-      "price_per_100g": 50.78,
-      "url": "https://myfitness.co.in/products/myfitness-x-wonder-woman-original-peanut-butter-smooth-510g-29-protein-high-protein",
-      "in_stock": true
-    },
-    {
-      "source": "MyFitness",
       "name": "Pro.Fitness Rolled Oats | 13% Protein | Healthy Oats With High Fiber and Zero Cholesterol (900g)",
       "brand": "MYFITNESS",
       "mrp": 320.0,
@@ -1043,6 +1031,18 @@
       "size_g": 610,
       "price_per_100g": 45.08,
       "url": "https://myfitness.co.in/products/myfitness-original-peanut-butter-smooth",
+      "in_stock": true
+    },
+    {
+      "source": "MyFitness",
+      "name": "MyFitness x Wonder Woman | Original Peanut Butter Smooth 510g | 29% Protein | High Protein (510g)",
+      "brand": "MYFITNESS",
+      "mrp": 379.0,
+      "price": 279.0,
+      "discount_pct": 26.4,
+      "size_g": 510,
+      "price_per_100g": 54.71,
+      "url": "https://myfitness.co.in/products/myfitness-x-wonder-woman-original-peanut-butter-smooth-510g-29-protein-high-protein",
       "in_stock": true
     },
     {

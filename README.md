@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-10-06 15:52 IST
+**Last checked:** 2026-10-07 15:49 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -92,7 +92,6 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 |---|---:|---:|---:|---:|:---:|---|
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (227g) | ₹159 | ₹149 | 6% | ₹65.64 | ✅ | [view](https://myfitness.co.in/products/chocolate-crispy) |
 | Pro.Fitness High Protein Chocolate Oats - Dark Chocolate - Healthy Oats With Nuts, Seeds & Added Whey (375g) | ₹339 | ₹219 | 35% | ₹58.40 | ✅ | [view](https://myfitness.co.in/products/high-protein-oats-900g-27g-protein) |
-| MyFitness x Wonder Woman - Original Peanut Butter Smooth 510g - 29% Protein - High Protein (510g) | ₹379 | ₹259 | 32% | ₹50.78 | ✅ | [view](https://myfitness.co.in/products/myfitness-x-wonder-woman-original-peanut-butter-smooth-510g-29-protein-high-protein) |
 | Pro.Fitness Rolled Oats - 13% Protein - Healthy Oats With High Fiber and Zero Cholesterol (900g) | ₹320 | ₹269 | 16% | - | ✅ | [view](https://myfitness.co.in/products/pro-fitness-rolled-oats-900g) |
 | MyFitness Peanut Butter - Classic Zero - 28% Protein - Extra Crunchy - Zero Sugar Peanut Spread (510 g) | ₹349 | ₹275 | 21% | ₹53.92 | ✅ | [view](https://myfitness.co.in/products/myfitness-zero-peanut-butter-crunchy-510g) |
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crunchy - Chocolate Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-crunchy) |
@@ -102,6 +101,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | MyFitness Peanut Butter - Chocolate - 28% Protein - Smooth - Chocolate Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-smooth) |
 | MyFitness Peanut Butter - Original - 28% Protein - Crunchy - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-crunchy) |
 | MyFitness Peanut Butter - Original - 28% Protein - Smooth - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-smooth) |
+| MyFitness x Wonder Woman - Original Peanut Butter Smooth 510g - 29% Protein - High Protein (510g) | ₹379 | ₹279 | 26% | ₹54.71 | ✅ | [view](https://myfitness.co.in/products/myfitness-x-wonder-woman-original-peanut-butter-smooth-510g-29-protein-high-protein) |
 | MyFitness Peanut Butter - Chocolate - 25% Protein - Almond Crunch - Chocolate Peanut Butter Spread (510 g) | ₹379 | ₹279 | 26% | ₹54.71 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-with-almond-crunch) |
 | MyFitness x Batman - Chocolate Zero Peanut Butter Extra Crunchy - 27% Protein - Zero Added Sugar - High Protein (510 g) | ₹369 | ₹299 | 19% | ₹58.63 | ✅ | [view](https://myfitness.co.in/products/myfitness-zero-chocolate-peanut-butter-crunchy-zero-sugar-extra-crunch-510g-27g-protein-10g-fiber-tasty-healthy-nut-butter-spread-cholesterol-free-zero-trans-fat-crunchy-peanut-butter) |
 | MyFitness Peanut Butter - Dark Chocolate - 30% Protein - Smooth - Rich Chocolate Peanut Butter Spread (510 g) | ₹399 | ₹299 | 25% | ₹49.02 | ✅ | [view](https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth) |
@@ -133,15 +133,15 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹49 | 29% | ₹122.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹59 | 14% | ₹147.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹69 | ₹69 | 0% | ₹172.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
-| Nutrabay Pure Pea Protein Isolate | ₹669 | ₹599 | 10% | ₹119.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
+| Nutrabay Pure Pea Protein Isolate | ₹669 | ₹549 | 18% | ₹109.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
+| Nutrabay BioAbsorb™ Whey Protein Powder - Clinically Tested 54% Better Protein Absorption - 26g Protein/Scoop - India's 1st Protein with ProDiFi™ for No Bloating - No Added Sugar | ₹859 | ₹599 | 30% | ₹330.94 | ✅ | [view](https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444) |
 | TruNativ Plant Based Everyday Protein - Protein You Can Cook With! | ₹699 | ₹599 | 14% | ₹363.03 | ✅ | [view](https://nutrabay.com/product/trunativ-plant-based-everyday-protein-protein-you-can-cook-with/?pId=9485223) |
 | Nutrabay Wellness Vegan Plant Protein Powder + Superfoods | ₹1,199 | ₹699 | 42% | ₹139.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878) |
-| Nutrabay BioAbsorb™ Whey Protein Powder - Clinically Tested 54% Better Protein Absorption - 26g Protein/Scoop - India's 1st Protein with ProDiFi™ for No Bloating - No Added Sugar | ₹859 | ₹749 | 13% | ₹413.81 | ✅ | [view](https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444) |
-| Nutrabay Wellness Vegan Plant Protein Powder + Superfoods | ₹1,199 | ₹799 | 33% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878) |
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Pure Pea Protein Isolate | ₹1,349 | ₹849 | 37% | ₹84.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
+| Nutrabay Pure Soy Protein Isolate | ₹1,349 | ₹899 | 33% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049) |
 | Naturaltein Plant Protein | ₹2,225 | ₹949 | 57% | ₹189.80 | ✅ | [view](https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
