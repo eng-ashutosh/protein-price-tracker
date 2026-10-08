@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07 15:49 IST",
+  "checked_at": "2026-10-08 16:08 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -135,6 +135,18 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Ace Blend Plant Based Daily Protein",
+      "brand": "Ace Blend",
+      "mrp": 1935,
+      "price": 849,
+      "discount_pct": 56.1,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://nutrabay.com/product/ace-blend-plant-based-daily-protein/?pId=6275363",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "Nutrabay Pure Soy Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 1349,
@@ -147,38 +159,26 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Naturaltein Plant Protein",
-      "brand": "Naturaltein",
-      "mrp": 2225,
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
       "price": 949,
-      "discount_pct": 57.3,
-      "size_g": 500.0,
-      "price_per_100g": 189.8,
-      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
+      "discount_pct": 12.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
       "in_stock": true
     },
     {
       "source": "Nutrabay",
-      "name": "Velbiom Happy Cultures Tastiest Plant Protein",
-      "brand": "Velbiom",
-      "mrp": 1699,
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
       "price": 949,
-      "discount_pct": 44.1,
-      "size_g": 505.0,
-      "price_per_100g": 187.92,
-      "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Velbiom Happy Cultures Tastiest Plant Protein",
-      "brand": "Velbiom",
-      "mrp": 1699,
-      "price": 949,
-      "discount_pct": 44.1,
-      "size_g": 505.0,
-      "price_per_100g": 187.92,
-      "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
+      "discount_pct": 12.0,
+      "size_g": 155.0,
+      "price_per_100g": 612.26,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
       "in_stock": true
     },
     {
@@ -615,6 +615,78 @@
     },
     {
       "source": "Wellbeing Nutrition",
+      "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Belgian Dark Chocolate offer (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1349.0,
+      "discount_pct": 25.0,
+      "size_g": 500.0,
+      "price_per_100g": 269.8,
+      "url": "https://wellbeingnutrition.com/products/plant-protein-22g-500g-3b-cfu-probiotics-belgian-dark-chocolate-offer",
+      "in_stock": true
+    },
+    {
+      "source": "Wellbeing Nutrition",
+      "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Canadian Mixed Berry offer (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1349.0,
+      "discount_pct": 25.0,
+      "size_g": 500.0,
+      "price_per_100g": 269.8,
+      "url": "https://wellbeingnutrition.com/products/plant-protein-22g-500g-3b-cfu-probiotics-canadian-mixed-berry-offer",
+      "in_stock": true
+    },
+    {
+      "source": "Wellbeing Nutrition",
+      "name": "Superfood Plant Protein | British Banoffee Pie offer (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1349.0,
+      "discount_pct": 25.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-british-banoffee-pie-offer",
+      "in_stock": true
+    },
+    {
+      "source": "Wellbeing Nutrition",
+      "name": "Her Superfood Plant Protein | Chocolate Peanut Butter offer (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1349.0,
+      "discount_pct": 25.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://wellbeingnutrition.com/products/her-superfood-plant-protein-chocolate-peanut-butter-offer",
+      "in_stock": false
+    },
+    {
+      "source": "Wellbeing Nutrition",
+      "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Dark Chocolate Hazelnut offer (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1349.0,
+      "discount_pct": 25.0,
+      "size_g": 500.0,
+      "price_per_100g": 269.8,
+      "url": "https://wellbeingnutrition.com/products/plant-protein-22g-500g-3b-cfu-probiotics-dark-chocolate-hazelnut-offer",
+      "in_stock": true
+    },
+    {
+      "source": "Wellbeing Nutrition",
+      "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Canadian Mixed Berry offer (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1349.0,
+      "discount_pct": 25.0,
+      "size_g": 500.0,
+      "price_per_100g": 269.8,
+      "url": "https://wellbeingnutrition.com/products/plant-protein-22g-500g-3b-cfu-probiotics-canadian-mixed-berry-offer-1",
+      "in_stock": true
+    },
+    {
+      "source": "Wellbeing Nutrition",
       "name": "Whey Protein Isolate + Concentrate Mango Sachets (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1399.0,
@@ -650,78 +722,6 @@
       "in_stock": false
     },
     {
-      "source": "Wellbeing Nutrition",
-      "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Belgian Dark Chocolate (Pack of 1)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1799.0,
-      "price": 1529.0,
-      "discount_pct": 15.0,
-      "size_g": 500.0,
-      "price_per_100g": 305.8,
-      "url": "https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate",
-      "in_stock": true
-    },
-    {
-      "source": "Wellbeing Nutrition",
-      "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | French Vanilla Caramel (Pack of 1)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1799.0,
-      "price": 1529.0,
-      "discount_pct": 15.0,
-      "size_g": 500.0,
-      "price_per_100g": 305.8,
-      "url": "https://wellbeingnutrition.com/products/vegan-protein-french-vanilla-caramel",
-      "in_stock": true
-    },
-    {
-      "source": "Wellbeing Nutrition",
-      "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Canadian Mixed Berry (Pack of 1)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1799.0,
-      "price": 1529.0,
-      "discount_pct": 15.0,
-      "size_g": 500.0,
-      "price_per_100g": 305.8,
-      "url": "https://wellbeingnutrition.com/products/vegan-protein-canadian-mixed-berry",
-      "in_stock": true
-    },
-    {
-      "source": "Wellbeing Nutrition",
-      "name": "Her Superfood Plant Protein | Chocolate Peanut Butter (Pack of 1)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1799.0,
-      "price": 1529.0,
-      "discount_pct": 15.0,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-for-women",
-      "in_stock": true
-    },
-    {
-      "source": "Wellbeing Nutrition",
-      "name": "Superfood Plant Protein | British Banoffee Pie (Pack of 1)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1799.0,
-      "price": 1529.0,
-      "discount_pct": 15.0,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-in-banoffee-pie",
-      "in_stock": true
-    },
-    {
-      "source": "Wellbeing Nutrition",
-      "name": "Whey Protein Isolate + Concentrate Mango Sachets (Pack of 2)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 2798.0,
-      "price": 2798.0,
-      "discount_pct": 0.0,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://wellbeingnutrition.com/products/whey-protein-isolate-concentrate-mango-sachets",
-      "in_stock": false
-    },
-    {
       "source": "AS-IT-IS Nutrition",
       "name": "AS-IT-IS ONE Brown Rice Protein | 27g Protein per Serving | Plant Protein | Single-Ingredient, Unflavoured (35g)",
       "brand": "AS-IT-IS Nutrition",
@@ -731,7 +731,7 @@
       "size_g": 1000,
       "price_per_100g": null,
       "url": "https://asitisnutrition.com/products/as-it-is-nutrition-brown-rice-protein-80-designed-as-meal-supplement-lab-tested-unflavoured",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "AS-IT-IS Nutrition",
