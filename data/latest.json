@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-10 15:23 IST",
+  "checked_at": "2026-10-11 15:33 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -135,18 +135,6 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Ace Blend Plant Based Daily Protein",
-      "brand": "Ace Blend",
-      "mrp": 1935,
-      "price": 849,
-      "discount_pct": 56.1,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://nutrabay.com/product/ace-blend-plant-based-daily-protein/?pId=6275363",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
       "name": "Nutrabay Pure Soy Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 1349,
@@ -155,6 +143,18 @@
       "size_g": 1000.0,
       "price_per_100g": 89.9,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "OSOAA Pea Protein Hydrolysate – Unflavoured",
+      "brand": "OSOAA",
+      "mrp": 2499,
+      "price": 899,
+      "discount_pct": 64.0,
+      "size_g": 1000.0,
+      "price_per_100g": 89.9,
+      "url": "https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-unflavoured-29g-protein-531g-bcaa-180g-fiber-per-serve/?pId=8064183",
       "in_stock": true
     },
     {
