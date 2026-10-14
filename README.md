@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-10-13 16:09 IST
+**Last checked:** 2026-10-14 14:16 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -92,6 +92,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 |---|---:|---:|---:|---:|:---:|---|
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (227g) | ₹159 | ₹149 | 6% | ₹65.64 | ✅ | [view](https://myfitness.co.in/products/chocolate-crispy) |
 | Pro.Fitness High Protein Chocolate Oats - Dark Chocolate - Healthy Oats With Nuts, Seeds & Added Whey (375g) | ₹339 | ₹219 | 35% | ₹58.40 | ✅ | [view](https://myfitness.co.in/products/high-protein-oats-900g-27g-protein) |
+| Pro.Fitness High Protein Chocolate Peanut Butter Oats - Made with MyFitness Chocolate Peanut Butter - 27% Protein - No Added Refined Sugar (375g) | ₹349 | ₹249 | 29% | ₹66.40 | ❌ | [view](https://myfitness.co.in/products/pro-fitness-high-protein-chocolate-peanut-butter-oats-made-with-myfitness-chocolate-peanut-butter-27-protein-no-added-refined-sugar) |
 | Pro.Fitness Rolled Oats - 13% Protein - Healthy Oats With High Fiber and Zero Cholesterol (900g) | ₹320 | ₹269 | 16% | - | ✅ | [view](https://myfitness.co.in/products/pro-fitness-rolled-oats-900g) |
 | MyFitness Peanut Butter - Classic Zero - 28% Protein - Extra Crunchy - Zero Sugar Peanut Spread (510 g) | ₹349 | ₹275 | 21% | ₹53.92 | ✅ | [view](https://myfitness.co.in/products/myfitness-zero-peanut-butter-crunchy-510g) |
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crunchy - Chocolate Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-crunchy) |
@@ -104,7 +105,6 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | MyFitness x Wonder Woman - Original Peanut Butter Smooth 510g - 29% Protein - High Protein (510g) | ₹379 | ₹279 | 26% | ₹54.71 | ✅ | [view](https://myfitness.co.in/products/myfitness-x-wonder-woman-original-peanut-butter-smooth-510g-29-protein-high-protein) |
 | MyFitness Peanut Butter - Chocolate - 25% Protein - Almond Crunch - Chocolate Peanut Butter Spread (510 g) | ₹379 | ₹279 | 26% | ₹54.71 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-with-almond-crunch) |
 | MyFitness x Batman - Chocolate Zero Peanut Butter Extra Crunchy - 27% Protein - Zero Added Sugar - High Protein (510 g) | ₹369 | ₹299 | 19% | ₹58.63 | ✅ | [view](https://myfitness.co.in/products/myfitness-zero-chocolate-peanut-butter-crunchy-zero-sugar-extra-crunch-510g-27g-protein-10g-fiber-tasty-healthy-nut-butter-spread-cholesterol-free-zero-trans-fat-crunchy-peanut-butter) |
-| MyFitness Peanut Butter - Dark Chocolate - 30% Protein - Smooth - Rich Chocolate Peanut Butter Spread (510 g) | ₹399 | ₹299 | 25% | ₹49.02 | ✅ | [view](https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth) |
 
 ## Naturaltein
 
@@ -150,9 +150,9 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| Plant Protein + Pro-Digest (Chocolate) | ₹139 | ₹139 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |
+| Plant Protein + Pro-Digest (Chocolate) | ₹139 | ₹139 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
 | Plant Protein + Pro-Digest (Mango) | ₹139 | ₹139 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
-| Plant Protein + Pro-Digest (Vanilla) | ₹139 | ₹139 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |
+| Plant Protein + Pro-Digest (Vanilla) | ₹139 | ₹139 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
 | Pro-Collagen Protein Peptides Caramel - 250g | ₹799 | ₹433 | 46% | ₹173.20 | ✅ | [view](https://oziva.in/products/pro-collagen-protein-peptides-caramel-250g) |
 | Vegan Collagen, Clinically Proven (Watermelon / Starter Pack-125g) | ₹499 | ₹459 | 8% | ₹367.20 | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
 | Plant Protein + Pro-Digest (Assorted) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |

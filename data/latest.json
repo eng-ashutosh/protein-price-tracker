@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13 16:09 IST",
+  "checked_at": "2026-10-14 14:16 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -371,7 +371,7 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://oziva.in/products/plant-protein-pro-digest",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "OZiva",
@@ -395,7 +395,7 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://oziva.in/products/plant-protein-pro-digest",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "OZiva",
@@ -927,6 +927,18 @@
     },
     {
       "source": "MyFitness",
+      "name": "Pro.Fitness High Protein Chocolate Peanut Butter Oats | Made with MyFitness Chocolate Peanut Butter | 27% Protein | No Added Refined Sugar (375g)",
+      "brand": "MYFITNESS",
+      "mrp": 349.0,
+      "price": 249.0,
+      "discount_pct": 28.7,
+      "size_g": 375.0,
+      "price_per_100g": 66.4,
+      "url": "https://myfitness.co.in/products/pro-fitness-high-protein-chocolate-peanut-butter-oats-made-with-myfitness-chocolate-peanut-butter-27-protein-no-added-refined-sugar",
+      "in_stock": false
+    },
+    {
+      "source": "MyFitness",
       "name": "Pro.Fitness Rolled Oats | 13% Protein | Healthy Oats With High Fiber and Zero Cholesterol (900g)",
       "brand": "MYFITNESS",
       "mrp": 320.0,
@@ -1067,18 +1079,6 @@
       "size_g": 510,
       "price_per_100g": 58.63,
       "url": "https://myfitness.co.in/products/myfitness-zero-chocolate-peanut-butter-crunchy-zero-sugar-extra-crunch-510g-27g-protein-10g-fiber-tasty-healthy-nut-butter-spread-cholesterol-free-zero-trans-fat-crunchy-peanut-butter",
-      "in_stock": true
-    },
-    {
-      "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Dark Chocolate | 30% Protein | Smooth | Rich Chocolate Peanut Butter Spread (510 g)",
-      "brand": "MYFITNESS",
-      "mrp": 399.0,
-      "price": 299.0,
-      "discount_pct": 25.1,
-      "size_g": 610,
-      "price_per_100g": 49.02,
-      "url": "https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth",
       "in_stock": true
     },
     {
