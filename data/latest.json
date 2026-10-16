@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15 13:51 IST",
+  "checked_at": "2026-10-16 13:43 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -87,30 +87,6 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Wellness Vegan Plant Protein Powder + Superfoods",
-      "brand": "Nutrabay",
-      "mrp": 1199,
-      "price": 799,
-      "discount_pct": 33.4,
-      "size_g": 500.0,
-      "price_per_100g": 159.8,
-      "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
-      "brand": "Nutrabay",
-      "mrp": 1049,
-      "price": 799,
-      "discount_pct": 23.8,
-      "size_g": 500.0,
-      "price_per_100g": 159.8,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
       "name": "Nutrabay Gold Hydrolyzed Pea Protein",
       "brand": "Nutrabay",
       "mrp": 1049,
@@ -179,6 +155,30 @@
       "size_g": 500.0,
       "price_per_100g": 189.8,
       "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Velbiom Happy Cultures Tastiest Plant Protein",
+      "brand": "Velbiom",
+      "mrp": 1699,
+      "price": 949,
+      "discount_pct": 44.1,
+      "size_g": 505.0,
+      "price_per_100g": 187.92,
+      "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "OSOAA Pea Protein Hydrolysate",
+      "brand": "OSOAA",
+      "mrp": 2799,
+      "price": 989,
+      "discount_pct": 64.7,
+      "size_g": 1000.0,
+      "price_per_100g": 98.9,
+      "url": "https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-26g-protein-478g-bcaa-486g-fiber-per-serve/?pId=7613837",
       "in_stock": true
     },
     {
