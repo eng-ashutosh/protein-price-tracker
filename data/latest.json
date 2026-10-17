@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16 13:43 IST",
+  "checked_at": "2026-10-17 13:20 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -171,14 +171,14 @@
     },
     {
       "source": "Nutrabay",
-      "name": "OSOAA Pea Protein Hydrolysate",
-      "brand": "OSOAA",
-      "mrp": 2799,
-      "price": 989,
-      "discount_pct": 64.7,
-      "size_g": 1000.0,
-      "price_per_100g": 98.9,
-      "url": "https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-26g-protein-478g-bcaa-486g-fiber-per-serve/?pId=7613837",
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
+      "price": 999,
+      "discount_pct": 7.4,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
       "in_stock": true
     },
     {
@@ -603,18 +603,6 @@
     },
     {
       "source": "Wellbeing Nutrition",
-      "name": "Whey Protein Blend Swiss Chocolate Sachets (Pack of 6)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1399.0,
-      "price": 1329.0,
-      "discount_pct": 5.0,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://wellbeingnutrition.com/products/whey-protein-blend-swiss-chocolate-sachets",
-      "in_stock": true
-    },
-    {
-      "source": "Wellbeing Nutrition",
       "name": "Whey Protein Isolate + Concentrate Mango Sachets (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1399.0,
@@ -659,7 +647,7 @@
       "size_g": 500.0,
       "price_per_100g": 341.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
@@ -707,6 +695,18 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-in-banoffee-pie",
+      "in_stock": true
+    },
+    {
+      "source": "Wellbeing Nutrition",
+      "name": "Whey Protein Blend Swiss Chocolate Sachets (Pack of 12)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 2658.0,
+      "price": 2658.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://wellbeingnutrition.com/products/whey-protein-blend-swiss-chocolate-sachets",
       "in_stock": true
     },
     {
