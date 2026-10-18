@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17 13:20 IST",
+  "checked_at": "2026-10-18 13:34 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -111,6 +111,18 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
+      "brand": "Nutrabay",
+      "mrp": 1049,
+      "price": 799,
+      "discount_pct": 23.8,
+      "size_g": 500.0,
+      "price_per_100g": 159.8,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "Nutrabay Pure Pea Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 1349,
@@ -167,18 +179,6 @@
       "size_g": 505.0,
       "price_per_100g": 187.92,
       "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
-      "brand": "Optimum Nutrition",
-      "mrp": 1079,
-      "price": 999,
-      "discount_pct": 7.4,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
       "in_stock": true
     },
     {
@@ -647,7 +647,7 @@
       "size_g": 500.0,
       "price_per_100g": 341.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Wellbeing Nutrition",
