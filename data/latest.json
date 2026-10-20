@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19 14:26 IST",
+  "checked_at": "2026-10-20 14:06 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -135,6 +135,18 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Nakpro Nutrition Platinum Soy Protein Isolate",
+      "brand": "Nakpro Nutrition",
+      "mrp": 2300,
+      "price": 899,
+      "discount_pct": 60.9,
+      "size_g": 1000.0,
+      "price_per_100g": 89.9,
+      "url": "https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "Naturaltein Plant Protein",
       "brand": "Naturaltein",
       "mrp": 2225,
@@ -166,18 +178,6 @@
       "discount_pct": 7.4,
       "size_g": null,
       "price_per_100g": null,
-      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
-      "brand": "Optimum Nutrition",
-      "mrp": 1079,
-      "price": 999,
-      "discount_pct": 7.4,
-      "size_g": 155.0,
-      "price_per_100g": 644.52,
       "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
       "in_stock": true
     },
@@ -399,7 +399,7 @@
     },
     {
       "source": "OZiva",
-      "name": "Protein + ACV",
+      "name": "Plant Protein + ACV",
       "brand": "OZiva",
       "mrp": 338.0,
       "price": 338.0,
