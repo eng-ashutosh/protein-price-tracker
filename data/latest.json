@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24 13:40 IST",
+  "checked_at": "2026-10-25 13:58 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -99,18 +99,6 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
-      "brand": "Nutrabay",
-      "mrp": 1049,
-      "price": 799,
-      "discount_pct": 23.8,
-      "size_g": 500.0,
-      "price_per_100g": 159.8,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
       "name": "Nutrabay Pure Pea Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 1349,
@@ -179,6 +167,18 @@
       "size_g": 155.0,
       "price_per_100g": 644.52,
       "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Pure Soy Protein Isolate",
+      "brand": "Nutrabay",
+      "mrp": 1349,
+      "price": 999,
+      "discount_pct": 25.9,
+      "size_g": 1000.0,
+      "price_per_100g": 99.9,
+      "url": "https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049",
       "in_stock": true
     },
     {
