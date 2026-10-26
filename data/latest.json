@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-10-25 13:58 IST",
+  "checked_at": "2026-10-26 14:29 IST",
   "items": [
     {
       "source": "Nutrabay",
       "name": "Nutrabay Gold Hydrolyzed Pea Protein",
       "brand": "Nutrabay",
       "mrp": 69,
-      "price": 69,
-      "discount_pct": 0.0,
+      "price": 49,
+      "discount_pct": 29.0,
       "size_g": 40.0,
-      "price_per_100g": 172.5,
+      "price_per_100g": 122.5,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
@@ -18,8 +18,20 @@
       "name": "Nutrabay Gold Hydrolyzed Pea Protein",
       "brand": "Nutrabay",
       "mrp": 69,
+      "price": 59,
+      "discount_pct": 14.5,
+      "size_g": 40.0,
+      "price_per_100g": 147.5,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
+      "brand": "Nutrabay",
+      "mrp": 99,
       "price": 69,
-      "discount_pct": 0.0,
+      "discount_pct": 30.3,
       "size_g": 40.0,
       "price_per_100g": 172.5,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
@@ -30,11 +42,23 @@
       "name": "Nutrabay Pure Pea Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 669,
-      "price": 599,
-      "discount_pct": 10.5,
+      "price": 549,
+      "discount_pct": 17.9,
       "size_g": 500.0,
-      "price_per_100g": 119.8,
+      "price_per_100g": 109.8,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay BioAbsorb™ Whey Protein Powder | Clinically Tested 54% Better Protein Absorption | 26g Protein/Scoop | India's 1st Protein with ProDiFi™ for No Bloating | No Added Sugar",
+      "brand": "Nutrabay",
+      "mrp": 859,
+      "price": 599,
+      "discount_pct": 30.3,
+      "size_g": 181.0,
+      "price_per_100g": 330.94,
+      "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444",
       "in_stock": true
     },
     {
@@ -59,18 +83,6 @@
       "size_g": 500.0,
       "price_per_100g": 139.8,
       "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay BioAbsorb™ Whey Protein Powder | Clinically Tested 54% Better Protein Absorption | 26g Protein/Scoop | India's 1st Protein with ProDiFi™ for No Bloating | No Added Sugar",
-      "brand": "Nutrabay",
-      "mrp": 859,
-      "price": 749,
-      "discount_pct": 12.8,
-      "size_g": 181.0,
-      "price_per_100g": 413.81,
-      "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444",
       "in_stock": true
     },
     {
@@ -107,6 +119,18 @@
       "size_g": 1000.0,
       "price_per_100g": 84.9,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Pure Soy Protein Isolate",
+      "brand": "Nutrabay",
+      "mrp": 1349,
+      "price": 899,
+      "discount_pct": 33.4,
+      "size_g": 1000.0,
+      "price_per_100g": 89.9,
+      "url": "https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049",
       "in_stock": true
     },
     {
@@ -155,30 +179,6 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
-      "brand": "Optimum Nutrition",
-      "mrp": 1079,
-      "price": 999,
-      "discount_pct": 7.4,
-      "size_g": 155.0,
-      "price_per_100g": 644.52,
-      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Pure Soy Protein Isolate",
-      "brand": "Nutrabay",
-      "mrp": 1349,
-      "price": 999,
-      "discount_pct": 25.9,
-      "size_g": 1000.0,
-      "price_per_100g": 99.9,
-      "url": "https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049",
       "in_stock": true
     },
     {
