@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27 14:33 IST",
+  "checked_at": "2026-10-28 15:13 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -75,6 +75,18 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
+      "brand": "Nutrabay",
+      "mrp": 1049,
+      "price": 799,
+      "discount_pct": 23.8,
+      "size_g": 500.0,
+      "price_per_100g": 159.8,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "Nutrabay Pure Pea Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 1349,
@@ -111,6 +123,42 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
+      "price": 949,
+      "discount_pct": 12.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
+      "price": 949,
+      "discount_pct": 12.0,
+      "size_g": 155.0,
+      "price_per_100g": 612.26,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
+      "price": 949,
+      "discount_pct": 12.0,
+      "size_g": 155.0,
+      "price_per_100g": 612.26,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "Velbiom Happy Cultures Tastiest Plant Protein",
       "brand": "Velbiom",
       "mrp": 1699,
@@ -131,54 +179,6 @@
       "size_g": 1000.0,
       "price_per_100g": 94.9,
       "url": "https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-unflavoured-29g-protein-531g-bcaa-180g-fiber-per-serve/?pId=8064183",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
-      "brand": "Optimum Nutrition",
-      "mrp": 1079,
-      "price": 999,
-      "discount_pct": 7.4,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
-      "brand": "Optimum Nutrition",
-      "mrp": 1079,
-      "price": 999,
-      "discount_pct": 7.4,
-      "size_g": 155.0,
-      "price_per_100g": 644.52,
-      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
-      "brand": "Optimum Nutrition",
-      "mrp": 1079,
-      "price": 999,
-      "discount_pct": 7.4,
-      "size_g": 155.0,
-      "price_per_100g": 644.52,
-      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Naturaltein Plant Protein",
-      "brand": "Naturaltein",
-      "mrp": 3000,
-      "price": 999,
-      "discount_pct": 66.7,
-      "size_g": 500.0,
-      "price_per_100g": 199.8,
-      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
       "in_stock": true
     },
     {
