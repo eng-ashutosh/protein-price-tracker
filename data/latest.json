@@ -1,6 +1,30 @@
 {
-  "checked_at": "2026-10-28 15:13 IST",
+  "checked_at": "2026-10-29 15:31 IST",
   "items": [
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
+      "brand": "Nutrabay",
+      "mrp": 69,
+      "price": 49,
+      "discount_pct": 29.0,
+      "size_g": 40.0,
+      "price_per_100g": 122.5,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
+      "brand": "Nutrabay",
+      "mrp": 99,
+      "price": 69,
+      "discount_pct": 30.3,
+      "size_g": 40.0,
+      "price_per_100g": 172.5,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
     {
       "source": "Nutrabay",
       "name": "Nutrabay Pure Pea Protein Isolate",
@@ -47,18 +71,6 @@
       "size_g": 500.0,
       "price_per_100g": 139.8,
       "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
-      "brand": "Nutrabay",
-      "mrp": 1049,
-      "price": 799,
-      "discount_pct": 23.8,
-      "size_g": 500.0,
-      "price_per_100g": 159.8,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
     {
@@ -167,18 +179,6 @@
       "size_g": 505.0,
       "price_per_100g": 187.92,
       "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "OSOAA Pea Protein Hydrolysate – Unflavoured",
-      "brand": "OSOAA",
-      "mrp": 2499,
-      "price": 949,
-      "discount_pct": 62.0,
-      "size_g": 1000.0,
-      "price_per_100g": 94.9,
-      "url": "https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-unflavoured-29g-protein-531g-bcaa-180g-fiber-per-serve/?pId=8064183",
       "in_stock": true
     },
     {
@@ -335,7 +335,7 @@
       "size_g": 1000.0,
       "price_per_100g": 155.8,
       "url": "https://in.fastandup.com/products/plant-protein-powder-special-festive-pack",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Fast&Up",
@@ -359,6 +359,186 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/plant-protein-strawberry-25-servings",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest (Chocolate)",
+      "brand": "OZiva",
+      "mrp": 139.0,
+      "price": 139.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest (Mango)",
+      "brand": "OZiva",
+      "mrp": 139.0,
+      "price": 139.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest (Vanilla)",
+      "brand": "OZiva",
+      "mrp": 139.0,
+      "price": 139.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + ACV",
+      "brand": "OZiva",
+      "mrp": 338.0,
+      "price": 338.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/protein-acv",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Pro-Collagen Protein Peptides Caramel | 250g",
+      "brand": "OZiva",
+      "mrp": 799.0,
+      "price": 433.0,
+      "discount_pct": 45.8,
+      "size_g": 250.0,
+      "price_per_100g": 173.2,
+      "url": "https://oziva.in/products/pro-collagen-protein-peptides-caramel-250g",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Vegan Collagen, Clinically Proven (Watermelon / Starter Pack-125g)",
+      "brand": "OZiva",
+      "mrp": 499.0,
+      "price": 459.0,
+      "discount_pct": 8.0,
+      "size_g": 125.0,
+      "price_per_100g": 367.2,
+      "url": "https://oziva.in/products/plant-based-collagen",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest - Assorted Flavours (Pack of 1 (5 Sachets))",
+      "brand": "OZiva",
+      "mrp": 699.0,
+      "price": 699.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest-1",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest - Assorted Flavours (Pack of 2 (10 Sachets))",
+      "brand": "OZiva",
+      "mrp": 699.0,
+      "price": 699.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest-1",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest (Assorted)",
+      "brand": "OZiva",
+      "mrp": 699.0,
+      "price": 699.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest (Strawberry)",
+      "brand": "OZiva",
+      "mrp": 699.0,
+      "price": 699.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest",
+      "in_stock": false
+    },
+    {
+      "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest (Assorted / Starter Pack)",
+      "brand": "OZiva",
+      "mrp": 699.0,
+      "price": 699.0,
+      "discount_pct": 0.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Daily Protein Activ for Women (Rich Chocolate / Starter Pack)",
+      "brand": "OZiva",
+      "mrp": 799.0,
+      "price": 749.0,
+      "discount_pct": 6.3,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/daily-protein-activ-for-women-with-clean-whey-protein-multivitamins-tulsi-probiotics-for-improved-everyday-energy-stamina-bone-health-immune-health",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Daily Protein Activ for Women (Classic Vanilla / Starter Pack)",
+      "brand": "OZiva",
+      "mrp": 799.0,
+      "price": 749.0,
+      "discount_pct": 6.3,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/daily-protein-activ-for-women-with-clean-whey-protein-multivitamins-tulsi-probiotics-for-improved-everyday-energy-stamina-bone-health-immune-health",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Pro-Collagen Protein Peptides Caramel | 250g",
+      "brand": "OZiva",
+      "mrp": 799.0,
+      "price": 799.0,
+      "discount_pct": 0.0,
+      "size_g": 250.0,
+      "price_per_100g": 319.6,
+      "url": "https://oziva.in/products/pro-collagen-protein-peptides-caramel-250g-copy",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
+      "name": "Pro-Collagen Protein Peptides, 250 g (Starter Pack)",
+      "brand": "OZiva",
+      "mrp": 849.0,
+      "price": 799.0,
+      "discount_pct": 5.9,
+      "size_g": 250,
+      "price_per_100g": 319.6,
+      "url": "https://oziva.in/products/oziva-pro-collagen-protein-peptides-with-clean-protein-green-coffee-hyaluronic-acid-biotin-for-skin-hair-health-muscle-joint-health-protein-breakdown-caramel-250-g",
       "in_stock": true
     },
     {
@@ -420,6 +600,18 @@
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/whey-protein-isolate-dark-chocolate-sachet",
       "in_stock": false
+    },
+    {
+      "source": "Wellbeing Nutrition",
+      "name": "Biofermented Yeast Protein Isolate 31g | 500g | Unflavoured (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1529.0,
+      "discount_pct": 15.0,
+      "size_g": 500.0,
+      "price_per_100g": 305.8,
+      "url": "https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g",
+      "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
@@ -507,37 +699,25 @@
     },
     {
       "source": "Wellbeing Nutrition",
-      "name": "Biofermented Yeast Protein Isolate 31g | 500g | Unflavoured (Pack of 1)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1799.0,
-      "price": 1709.0,
-      "discount_pct": 5.0,
-      "size_g": 500.0,
-      "price_per_100g": 341.8,
-      "url": "https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g",
-      "in_stock": true
-    },
-    {
-      "source": "Wellbeing Nutrition",
-      "name": "Biofermented Yeast Protein Isolate 24g | 500g | French Vanilla (Pack of 1)",
+      "name": "Biofermented Yeast Protein Isolate 24g| 500g |2B CFU Probiotics| 3 Digestive Enzymes | French Vanilla (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1899.0,
-      "price": 1804.0,
-      "discount_pct": 5.0,
+      "price": 1614.0,
+      "discount_pct": 15.0,
       "size_g": 500.0,
-      "price_per_100g": 360.8,
+      "price_per_100g": 322.8,
       "url": "https://wellbeingnutrition.com/products/yeast-protein-powder-french-vanilla-500g",
       "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
-      "name": "Biofermented Yeast Protein Isolate 24g | 500g | Mixed Berry (Pack of 1)",
+      "name": "Biofermented Yeast Protein Isolate 24g| 500g |2B CFU Probiotics| 3 Digestive Enzymes |Mixed Berry (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1899.0,
-      "price": 1804.0,
-      "discount_pct": 5.0,
+      "price": 1614.0,
+      "discount_pct": 15.0,
       "size_g": 500.0,
-      "price_per_100g": 360.8,
+      "price_per_100g": 322.8,
       "url": "https://wellbeingnutrition.com/products/yeast-protein-powder-mixed-berry-500g",
       "in_stock": true
     },
@@ -555,7 +735,7 @@
     },
     {
       "source": "AS-IT-IS Nutrition",
-      "name": "AS-IT-IS ONE Pea Protein Isolate | 29g Protein per Serving | Plant Protein | Single-Ingredient, Unflavoured (36g-Sachet)",
+      "name": "AS-IT-IS ONE Pea Protein Isolate | 29g Protein per Serving | Plant Protein | Single-Ingredient, Unflavoured (36g sachet)",
       "brand": "AS-IT-IS Nutrition",
       "mrp": 175.0,
       "price": 122.0,
@@ -563,7 +743,7 @@
       "size_g": 1000,
       "price_per_100g": null,
       "url": "https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "AS-IT-IS Nutrition",
