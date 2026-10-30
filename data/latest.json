@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29 15:31 IST",
+  "checked_at": "2026-10-30 15:35 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -10,18 +10,6 @@
       "discount_pct": 29.0,
       "size_g": 40.0,
       "price_per_100g": 122.5,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Gold Hydrolyzed Pea Protein",
-      "brand": "Nutrabay",
-      "mrp": 99,
-      "price": 69,
-      "discount_pct": 30.3,
-      "size_g": 40.0,
-      "price_per_100g": 172.5,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
@@ -171,14 +159,26 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Velbiom Happy Cultures Tastiest Plant Protein",
-      "brand": "Velbiom",
-      "mrp": 1699,
-      "price": 949,
-      "discount_pct": 44.1,
-      "size_g": 505.0,
-      "price_per_100g": 187.92,
-      "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
+      "name": "Naturaltein Plant Protein",
+      "brand": "Naturaltein",
+      "mrp": 3000,
+      "price": 999,
+      "discount_pct": 66.7,
+      "size_g": 500.0,
+      "price_per_100g": 199.8,
+      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Naturaltein Plant Protein",
+      "brand": "Naturaltein",
+      "mrp": 2225,
+      "price": 999,
+      "discount_pct": 55.1,
+      "size_g": 500.0,
+      "price_per_100g": 199.8,
+      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
       "in_stock": true
     },
     {
