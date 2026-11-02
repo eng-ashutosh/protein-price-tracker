@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01 16:00 IST",
+  "checked_at": "2026-11-02 16:44 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -17,9 +17,9 @@
       "source": "Nutrabay",
       "name": "Nutrabay Pure Pea Protein Isolate",
       "brand": "Nutrabay",
-      "mrp": 669,
+      "mrp": 849,
       "price": 549,
-      "discount_pct": 17.9,
+      "discount_pct": 35.3,
       "size_g": 500.0,
       "price_per_100g": 109.8,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
@@ -243,30 +243,6 @@
     },
     {
       "source": "Fast&Up",
-      "name": "Plant Protein - Cookies & Cream - 500g",
-      "brand": "Fastandup",
-      "mrp": 1599.0,
-      "price": 1119.0,
-      "discount_pct": 30.0,
-      "size_g": 500.0,
-      "price_per_100g": 223.8,
-      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g",
-      "in_stock": true
-    },
-    {
-      "source": "Fast&Up",
-      "name": "Plant Protein - Rich Chocolate – 500gms",
-      "brand": "Fastandup",
-      "mrp": 1599.0,
-      "price": 1119.0,
-      "discount_pct": 30.0,
-      "size_g": 500.0,
-      "price_per_100g": 223.8,
-      "url": "https://in.fastandup.com/products/plant-protein-powder-500gms",
-      "in_stock": true
-    },
-    {
-      "source": "Fast&Up",
       "name": "Yeast Protein - Unflavoured - 500g",
       "brand": "Fastandup",
       "mrp": 1299.0,
@@ -299,7 +275,7 @@
       "size_g": 500.0,
       "price_per_100g": 233.8,
       "url": "https://in.fastandup.com/products/yeast-protein-rich-chocolate-500g",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Fast&Up",
@@ -315,50 +291,74 @@
     },
     {
       "source": "Fast&Up",
-      "name": "Plant Protein - Alphonso Mango - 1Kg",
+      "name": "Plant Protein - Cookies & Cream - 500g",
       "brand": "Fastandup",
-      "mrp": 3115.0,
-      "price": 1962.0,
-      "discount_pct": 37.0,
-      "size_g": 1000.0,
-      "price_per_100g": 196.2,
-      "url": "https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings",
+      "mrp": 1599.0,
+      "price": 1279.0,
+      "discount_pct": 20.0,
+      "size_g": 500.0,
+      "price_per_100g": 255.8,
+      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g",
       "in_stock": true
     },
     {
       "source": "Fast&Up",
-      "name": "Plant Protein - Kesar Kulfi - 1kg",
+      "name": "Plant Protein - Rich Chocolate – 500gms",
       "brand": "Fastandup",
-      "mrp": 3115.0,
-      "price": 1962.0,
-      "discount_pct": 37.0,
-      "size_g": 1000.0,
-      "price_per_100g": 196.2,
-      "url": "https://in.fastandup.com/products/plant-protein-powder-special-festive-pack",
-      "in_stock": false
-    },
-    {
-      "source": "Fast&Up",
-      "name": "Plant Protein - Cookies & Cream - 1Kg",
-      "brand": "Fastandup",
-      "mrp": 3115.0,
-      "price": 1962.0,
-      "discount_pct": 37.0,
-      "size_g": 1000.0,
-      "price_per_100g": 196.2,
-      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg",
+      "mrp": 1599.0,
+      "price": 1279.0,
+      "discount_pct": 20.0,
+      "size_g": 500.0,
+      "price_per_100g": 255.8,
+      "url": "https://in.fastandup.com/products/plant-protein-powder-500gms",
       "in_stock": true
     },
     {
       "source": "Fast&Up",
-      "name": "Plant Protein - Strawberry Blast - 25 Servings",
+      "name": "Daily Fiber + Plant Protein Rich Chocolate Combo",
       "brand": "Fastandup",
-      "mrp": 3115.0,
-      "price": 1962.0,
-      "discount_pct": 37.0,
+      "mrp": 3715.0,
+      "price": 2229.0,
+      "discount_pct": 40.0,
       "size_g": null,
       "price_per_100g": null,
-      "url": "https://in.fastandup.com/products/plant-protein-strawberry-25-servings",
+      "url": "https://in.fastandup.com/products/daily-fiber-plant-protein-rich-chocolate-combo",
+      "in_stock": true
+    },
+    {
+      "source": "Fast&Up",
+      "name": "Yeast Protein - Coffee - 1kg",
+      "brand": "Fastandup",
+      "mrp": 2499.0,
+      "price": 2249.0,
+      "discount_pct": 10.0,
+      "size_g": 1000.0,
+      "price_per_100g": 224.9,
+      "url": "https://in.fastandup.com/products/yeast-protein-coffee-1kg",
+      "in_stock": true
+    },
+    {
+      "source": "Fast&Up",
+      "name": "Yeast Protein - Unflavoured - 1kg",
+      "brand": "Fastandup",
+      "mrp": 2499.0,
+      "price": 2249.0,
+      "discount_pct": 10.0,
+      "size_g": 1000.0,
+      "price_per_100g": 224.9,
+      "url": "https://in.fastandup.com/products/yeast-protein-unflavoured-1kg",
+      "in_stock": true
+    },
+    {
+      "source": "Fast&Up",
+      "name": "Yeast Protein - Rich Chocolate - 1kg",
+      "brand": "Fastandup",
+      "mrp": 2499.0,
+      "price": 2249.0,
+      "discount_pct": 10.0,
+      "size_g": 1000.0,
+      "price_per_100g": 224.9,
+      "url": "https://in.fastandup.com/products/yeast-protein-rich-chocolate-1kg",
       "in_stock": true
     },
     {
@@ -587,7 +587,7 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut-sachet",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Wellbeing Nutrition",
