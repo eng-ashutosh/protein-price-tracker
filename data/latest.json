@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03 16:26 IST",
+  "checked_at": "2026-11-04 16:29 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -186,8 +186,8 @@
       "name": "100% Pure & Natural Moringa Powder",
       "brand": "Fastandup",
       "mrp": 250.0,
-      "price": 238.0,
-      "discount_pct": 4.8,
+      "price": 225.0,
+      "discount_pct": 10.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/100-pure-natural-moringa-powder",
@@ -227,6 +227,30 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack",
+      "in_stock": true
+    },
+    {
+      "source": "Fast&Up",
+      "name": "Plant Protein - Cookies & Cream - 500g",
+      "brand": "Fastandup",
+      "mrp": 1599.0,
+      "price": 1039.0,
+      "discount_pct": 35.0,
+      "size_g": 500.0,
+      "price_per_100g": 207.8,
+      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g",
+      "in_stock": true
+    },
+    {
+      "source": "Fast&Up",
+      "name": "Plant Protein - Rich Chocolate – 500gms",
+      "brand": "Fastandup",
+      "mrp": 1599.0,
+      "price": 1039.0,
+      "discount_pct": 35.0,
+      "size_g": 500.0,
+      "price_per_100g": 207.8,
+      "url": "https://in.fastandup.com/products/plant-protein-powder-500gms",
       "in_stock": true
     },
     {
@@ -291,26 +315,14 @@
     },
     {
       "source": "Fast&Up",
-      "name": "Plant Protein - Cookies & Cream - 500g",
+      "name": "Plant Protein - Cookies & Cream - 500g Pack of 2",
       "brand": "Fastandup",
-      "mrp": 1599.0,
-      "price": 1279.0,
-      "discount_pct": 20.0,
+      "mrp": 3198.0,
+      "price": 1599.0,
+      "discount_pct": 50.0,
       "size_g": 500.0,
-      "price_per_100g": 255.8,
-      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g",
-      "in_stock": true
-    },
-    {
-      "source": "Fast&Up",
-      "name": "Plant Protein - Rich Chocolate – 500gms",
-      "brand": "Fastandup",
-      "mrp": 1599.0,
-      "price": 1279.0,
-      "discount_pct": 20.0,
-      "size_g": 500.0,
-      "price_per_100g": 255.8,
-      "url": "https://in.fastandup.com/products/plant-protein-powder-500gms",
+      "price_per_100g": 319.8,
+      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g-pack-of-2",
       "in_stock": true
     },
     {
@@ -318,8 +330,8 @@
       "name": "Daily Fiber + Plant Protein Rich Chocolate Combo",
       "brand": "Fastandup",
       "mrp": 3715.0,
-      "price": 2229.0,
-      "discount_pct": 40.0,
+      "price": 1858.0,
+      "discount_pct": 50.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/daily-fiber-plant-protein-rich-chocolate-combo",
@@ -327,38 +339,26 @@
     },
     {
       "source": "Fast&Up",
-      "name": "Yeast Protein - Coffee - 1kg",
+      "name": "Plant Protein - Alphonso Mango - 1Kg",
       "brand": "Fastandup",
-      "mrp": 2499.0,
-      "price": 2249.0,
-      "discount_pct": 10.0,
+      "mrp": 3115.0,
+      "price": 1869.0,
+      "discount_pct": 40.0,
       "size_g": 1000.0,
-      "price_per_100g": 224.9,
-      "url": "https://in.fastandup.com/products/yeast-protein-coffee-1kg",
+      "price_per_100g": 186.9,
+      "url": "https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings",
       "in_stock": true
     },
     {
       "source": "Fast&Up",
-      "name": "Yeast Protein - Unflavoured - 1kg",
+      "name": "Plant Protein - Cookies & Cream - 1Kg",
       "brand": "Fastandup",
-      "mrp": 2499.0,
-      "price": 2249.0,
-      "discount_pct": 10.0,
+      "mrp": 3115.0,
+      "price": 1869.0,
+      "discount_pct": 40.0,
       "size_g": 1000.0,
-      "price_per_100g": 224.9,
-      "url": "https://in.fastandup.com/products/yeast-protein-unflavoured-1kg",
-      "in_stock": true
-    },
-    {
-      "source": "Fast&Up",
-      "name": "Yeast Protein - Rich Chocolate - 1kg",
-      "brand": "Fastandup",
-      "mrp": 2499.0,
-      "price": 2249.0,
-      "discount_pct": 10.0,
-      "size_g": 1000.0,
-      "price_per_100g": 224.9,
-      "url": "https://in.fastandup.com/products/yeast-protein-rich-chocolate-1kg",
+      "price_per_100g": 186.9,
+      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg",
       "in_stock": true
     },
     {
@@ -587,7 +587,7 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut-sachet",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Wellbeing Nutrition",
@@ -600,18 +600,6 @@
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/whey-protein-isolate-dark-chocolate-sachet",
       "in_stock": false
-    },
-    {
-      "source": "Wellbeing Nutrition",
-      "name": "Biofermented Yeast Protein Isolate 31g | 500g | Unflavoured (Pack of 1)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1799.0,
-      "price": 1529.0,
-      "discount_pct": 15.0,
-      "size_g": 500.0,
-      "price_per_100g": 305.8,
-      "url": "https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g",
-      "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
@@ -647,7 +635,7 @@
       "size_g": 500.0,
       "price_per_100g": 305.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
@@ -699,13 +687,25 @@
     },
     {
       "source": "Wellbeing Nutrition",
+      "name": "Biofermented Yeast Protein Isolate 31g | 500g | Unflavoured (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1699.0,
+      "discount_pct": 5.6,
+      "size_g": 500.0,
+      "price_per_100g": 339.8,
+      "url": "https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g",
+      "in_stock": false
+    },
+    {
+      "source": "Wellbeing Nutrition",
       "name": "Biofermented Yeast Protein Isolate 24g| 500g |2B CFU Probiotics| 3 Digestive Enzymes | French Vanilla (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1899.0,
-      "price": 1614.0,
-      "discount_pct": 15.0,
+      "price": 1799.0,
+      "discount_pct": 5.3,
       "size_g": 500.0,
-      "price_per_100g": 322.8,
+      "price_per_100g": 359.8,
       "url": "https://wellbeingnutrition.com/products/yeast-protein-powder-french-vanilla-500g",
       "in_stock": true
     },
@@ -714,10 +714,10 @@
       "name": "Biofermented Yeast Protein Isolate 24g| 500g |2B CFU Probiotics| 3 Digestive Enzymes |Mixed Berry (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1899.0,
-      "price": 1614.0,
-      "discount_pct": 15.0,
+      "price": 1799.0,
+      "discount_pct": 5.3,
       "size_g": 500.0,
-      "price_per_100g": 322.8,
+      "price_per_100g": 359.8,
       "url": "https://wellbeingnutrition.com/products/yeast-protein-powder-mixed-berry-500g",
       "in_stock": true
     },
@@ -1263,7 +1263,7 @@
     },
     {
       "source": "GNC India",
-      "name": "Protein Wafer Bar Mini (Chocolate / 20 gm)",
+      "name": "Whey Protein Wafer Bar Mini (Chocolate / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
       "price": 28.0,
@@ -1275,7 +1275,7 @@
     },
     {
       "source": "GNC India",
-      "name": "Protein Wafer Bar Mini (Coffee / 20 gm)",
+      "name": "Whey Protein Wafer Bar Mini (Coffee / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
       "price": 28.0,
@@ -1287,7 +1287,7 @@
     },
     {
       "source": "GNC India",
-      "name": "Protein Wafer Bar Mini (Peanut Butter / 20 gm)",
+      "name": "Whey Protein Wafer Bar Mini (Peanut Butter / 20 gm)",
       "brand": "GNC India",
       "mrp": 60.0,
       "price": 28.0,
@@ -1379,7 +1379,7 @@
       "size_g": 40.0,
       "price_per_100g": 147.5,
       "url": "https://gnc.in/products/gnc-protein-popped-chips",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "GNC India",

@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-11-03 16:26 IST
+**Last checked:** 2026-11-04 16:29 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -50,36 +50,36 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| 100% Pure & Natural Moringa Powder | ₹250 | ₹238 | 5% | - | ✅ | [view](https://in.fastandup.com/products/100-pure-natural-moringa-powder) |
+| 100% Pure & Natural Moringa Powder | ₹250 | ₹225 | 10% | - | ✅ | [view](https://in.fastandup.com/products/100-pure-natural-moringa-powder) |
 | Plant Protein - Assorted Pack | ₹270 | ₹243 | 10% | - | ✅ | [view](https://in.fastandup.com/products/fast-up-plant-protein-assorted-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 5) | ₹450 | ₹396 | 12% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 10) | ₹900 | ₹765 | 15% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
+| Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,039 | 35% | ₹207.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
+| Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹1,039 | 35% | ₹207.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 15) | ₹1,350 | ₹1,107 | 18% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Yeast Protein - Unflavoured - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-unflavoured-500g) |
 | Yeast Protein - Coffee - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-coffee-500g) |
 | Yeast Protein - Rich Chocolate - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ❌ | [view](https://in.fastandup.com/products/yeast-protein-rich-chocolate-500g) |
 | Yeast Protein - Cookies & Cream - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-cookies-cream-500g) |
-| Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,279 | 20% | ₹255.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
-| Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹1,279 | 20% | ₹255.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
-| Daily Fiber + Plant Protein Rich Chocolate Combo | ₹3,715 | ₹2,229 | 40% | - | ✅ | [view](https://in.fastandup.com/products/daily-fiber-plant-protein-rich-chocolate-combo) |
-| Yeast Protein - Coffee - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-coffee-1kg) |
-| Yeast Protein - Unflavoured - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-unflavoured-1kg) |
-| Yeast Protein - Rich Chocolate - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-rich-chocolate-1kg) |
+| Plant Protein - Cookies & Cream - 500g Pack of 2 | ₹3,198 | ₹1,599 | 50% | ₹319.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g-pack-of-2) |
+| Daily Fiber + Plant Protein Rich Chocolate Combo | ₹3,715 | ₹1,858 | 50% | - | ✅ | [view](https://in.fastandup.com/products/daily-fiber-plant-protein-rich-chocolate-combo) |
+| Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹1,869 | 40% | ₹186.90 | ✅ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
+| Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹1,869 | 40% | ₹186.90 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
 
 ## GNC India
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| Protein Wafer Bar Mini (Chocolate / 20 gm) | ₹60 | ₹28 | 53% | ₹140.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
-| Protein Wafer Bar Mini (Coffee / 20 gm) | ₹60 | ₹28 | 53% | ₹140.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
-| Protein Wafer Bar Mini (Peanut Butter / 20 gm) | ₹60 | ₹28 | 53% | ₹140.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
+| Whey Protein Wafer Bar Mini (Chocolate / 20 gm) | ₹60 | ₹28 | 53% | ₹140.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
+| Whey Protein Wafer Bar Mini (Coffee / 20 gm) | ₹60 | ₹28 | 53% | ₹140.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
+| Whey Protein Wafer Bar Mini (Peanut Butter / 20 gm) | ₹60 | ₹28 | 53% | ₹140.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
 | GNC High Protein Oats Dark Bliss (Chocolate) (40g) | ₹45 | ₹45 | 0% | ₹112.50 | ❌ | [view](https://gnc.in/products/gnc-high-protein-oats-dark-bliss-chocolate) |
 | GNC Protein Wafer Bar (Chocolate) (Pack of 1 / Chocolate) | ₹59 | ₹55 | 7% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-chocolate) |
 | GNC Protein Wafer Bar (Peanut butter) (Pack of 1 / Peanut Butter) | ₹59 | ₹55 | 7% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-peanut-butter) |
 | GNC Protein Wafer Bar (Coffee) (Pack of 1 / Coffee) | ₹59 | ₹55 | 7% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-coffee) |
 | GNC Protein Wafer Bar (40g / Chocolate) | ₹60 | ₹55 | 8% | ₹137.50 | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-upsell) |
 | GNC Protein Popped Chips (40g / Peri Peri) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
-| GNC Protein Popped Chips (40g / Chilli and Cumin) | ₹75 | ₹59 | 21% | ₹147.50 | ❌ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
+| GNC Protein Popped Chips (40g / Chilli and Cumin) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
 | GNC Protein Popped Chips (40g / Garlic Bread) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
 | Protein Crunch Wafer Bar 40gm (Peanut Butter) | ₹80 | ₹59 | 26% | ₹147.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
 | Protein Crunch Wafer Bar 40gm (Cookies & Cream) | ₹80 | ₹59 | 26% | ₹147.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
@@ -173,18 +173,18 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Kids Protein Vanilla Free Sachet | ₹79 | ₹79 | 0% | - | ✅ | [view](https://wellbeingnutrition.com/products/kids-protein-vanilla-free-sachet) |
 | Kids Protein Chocolate Sachet | ₹79 | ₹79 | 0% | - | ✅ | [view](https://wellbeingnutrition.com/products/kids-protein-chocolate-sachet) |
 | Kids Protein Vanilla Sachet | ₹79 | ₹79 | 0% | - | ✅ | [view](https://wellbeingnutrition.com/products/kids-protein-vanilla-sachet) |
-| Vegan Protein Dark Chocolate Hazelnut Sachet | ₹150 | ₹150 | 0% | - | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut-sachet) |
+| Vegan Protein Dark Chocolate Hazelnut Sachet | ₹150 | ₹150 | 0% | - | ❌ | [view](https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut-sachet) |
 | Whey Protein Isolate Dark Chocolate Sachet (Pack of 1) | ₹160 | ₹160 | 0% | - | ❌ | [view](https://wellbeingnutrition.com/products/whey-protein-isolate-dark-chocolate-sachet) |
-| Biofermented Yeast Protein Isolate 31g - 500g - Unflavoured (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ✅ | [view](https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g) |
 | Plant Protein 22g - 500g - 3B CFU Probiotics - Dark Chocolate Hazelnut (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut) |
 | Plant Protein 22g - 500g - 3B CFU Probiotics - Italian Cafe Mocha (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ❌ | [view](https://wellbeingnutrition.com/products/vegan-protein-italian-cafe-mocha) |
-| Plant Protein 22g - 500g - 3B CFU Probiotics - Belgian Dark Chocolate (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ❌ | [view](https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate) |
+| Plant Protein 22g - 500g - 3B CFU Probiotics - Belgian Dark Chocolate (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate) |
 | Plant Protein 22g - 500g - 3B CFU Probiotics - French Vanilla Caramel (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-french-vanilla-caramel) |
 | Plant Protein 22g - 500g - 3B CFU Probiotics - Canadian Mixed Berry (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-canadian-mixed-berry) |
 | Her Superfood Plant Protein - Chocolate Peanut Butter (Pack of 1) | ₹1,799 | ₹1,529 | 15% | - | ✅ | [view](https://wellbeingnutrition.com/products/superfood-plant-protein-powder-for-women) |
 | Superfood Plant Protein - British Banoffee Pie (Pack of 1) | ₹1,799 | ₹1,529 | 15% | - | ✅ | [view](https://wellbeingnutrition.com/products/superfood-plant-protein-powder-in-banoffee-pie) |
-| Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes - French Vanilla (Pack of 1) | ₹1,899 | ₹1,614 | 15% | ₹322.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-french-vanilla-500g) |
-| Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes -Mixed Berry (Pack of 1) | ₹1,899 | ₹1,614 | 15% | ₹322.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-mixed-berry-500g) |
+| Biofermented Yeast Protein Isolate 31g - 500g - Unflavoured (Pack of 1) | ₹1,799 | ₹1,699 | 6% | ₹339.80 | ❌ | [view](https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g) |
+| Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes - French Vanilla (Pack of 1) | ₹1,899 | ₹1,799 | 5% | ₹359.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-french-vanilla-500g) |
+| Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes -Mixed Berry (Pack of 1) | ₹1,899 | ₹1,799 | 5% | ₹359.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-mixed-berry-500g) |
 
 
 *₹/100g is price per 100g of product weight, not per gram of protein (macros aren't available from these feeds). Prices are snapshots at check time and may have changed since — always verify on the retailer's site.*
