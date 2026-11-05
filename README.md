@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-11-04 16:29 IST
+**Last checked:** 2026-11-05 16:29 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -137,12 +137,12 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Nutrabay BioAbsorb™ Whey Protein Powder - Clinically Tested 54% Better Protein Absorption - 26g Protein/Scoop - India's 1st Protein with ProDiFi™ for No Bloating - No Added Sugar | ₹859 | ₹599 | 30% | ₹330.94 | ✅ | [view](https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444) |
 | Nutrabay Wellness Vegan Plant Protein Powder + Superfoods | ₹1,199 | ₹699 | 42% | ₹139.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878) |
 | Nutrabay Gold Hydrolyzed Pea Protein | ₹1,099 | ₹799 | 27% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
-| Nutrabay Gold Hydrolyzed Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
-| Nutrabay Gold Hydrolyzed Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
+| Nutrabay Gold Hydrolyzed Pea Protein | ₹1,099 | ₹799 | 27% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
+| Nutrabay Gold Hydrolyzed Pea Protein | ₹1,099 | ₹799 | 27% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Pure Pea Protein Isolate | ₹1,349 | ₹849 | 37% | ₹84.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
 | Nutrabay Pure Soy Protein Isolate | ₹1,349 | ₹899 | 33% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049) |
-| OSOAA Pea Protein Hydrolysate – Unflavoured | ₹2,499 | ₹899 | 64% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-unflavoured-29g-protein-531g-bcaa-180g-fiber-per-serve/?pId=8064183) |
 | Nakpro Nutrition Platinum Soy Protein Isolate | ₹2,300 | ₹899 | 61% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475) |
+| OSOAA Pea Protein Hydrolysate – Unflavoured | ₹2,499 | ₹899 | 64% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-unflavoured-29g-protein-531g-bcaa-180g-fiber-per-serve/?pId=8064183) |
 | OSOAA Pea Protein Hydrolysate | ₹2,499 | ₹989 | 60% | ₹98.90 | ✅ | [view](https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-26g-protein-478g-bcaa-486g-fiber-per-serve/?pId=7613837) |
 | Optimum Nutrition (ON) Gold Standard Whey Protein Powder | ₹1,079 | ₹999 | 7% | - | ✅ | [view](https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481) |
 
@@ -173,7 +173,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Kids Protein Vanilla Free Sachet | ₹79 | ₹79 | 0% | - | ✅ | [view](https://wellbeingnutrition.com/products/kids-protein-vanilla-free-sachet) |
 | Kids Protein Chocolate Sachet | ₹79 | ₹79 | 0% | - | ✅ | [view](https://wellbeingnutrition.com/products/kids-protein-chocolate-sachet) |
 | Kids Protein Vanilla Sachet | ₹79 | ₹79 | 0% | - | ✅ | [view](https://wellbeingnutrition.com/products/kids-protein-vanilla-sachet) |
-| Vegan Protein Dark Chocolate Hazelnut Sachet | ₹150 | ₹150 | 0% | - | ❌ | [view](https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut-sachet) |
+| Vegan Protein Dark Chocolate Hazelnut Sachet | ₹150 | ₹150 | 0% | - | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut-sachet) |
 | Whey Protein Isolate Dark Chocolate Sachet (Pack of 1) | ₹160 | ₹160 | 0% | - | ❌ | [view](https://wellbeingnutrition.com/products/whey-protein-isolate-dark-chocolate-sachet) |
 | Plant Protein 22g - 500g - 3B CFU Probiotics - Dark Chocolate Hazelnut (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut) |
 | Plant Protein 22g - 500g - 3B CFU Probiotics - Italian Cafe Mocha (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ❌ | [view](https://wellbeingnutrition.com/products/vegan-protein-italian-cafe-mocha) |
@@ -182,7 +182,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Plant Protein 22g - 500g - 3B CFU Probiotics - Canadian Mixed Berry (Pack of 1) | ₹1,799 | ₹1,529 | 15% | ₹305.80 | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-canadian-mixed-berry) |
 | Her Superfood Plant Protein - Chocolate Peanut Butter (Pack of 1) | ₹1,799 | ₹1,529 | 15% | - | ✅ | [view](https://wellbeingnutrition.com/products/superfood-plant-protein-powder-for-women) |
 | Superfood Plant Protein - British Banoffee Pie (Pack of 1) | ₹1,799 | ₹1,529 | 15% | - | ✅ | [view](https://wellbeingnutrition.com/products/superfood-plant-protein-powder-in-banoffee-pie) |
-| Biofermented Yeast Protein Isolate 31g - 500g - Unflavoured (Pack of 1) | ₹1,799 | ₹1,699 | 6% | ₹339.80 | ❌ | [view](https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g) |
+| Biofermented Yeast Protein Isolate 31g - 500g - Unflavoured (Pack of 1) | ₹1,799 | ₹1,699 | 6% | ₹339.80 | ✅ | [view](https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g) |
 | Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes - French Vanilla (Pack of 1) | ₹1,899 | ₹1,799 | 5% | ₹359.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-french-vanilla-500g) |
 | Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes -Mixed Berry (Pack of 1) | ₹1,899 | ₹1,799 | 5% | ₹359.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-mixed-berry-500g) |
 

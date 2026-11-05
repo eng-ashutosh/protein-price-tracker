@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04 16:29 IST",
+  "checked_at": "2026-11-05 16:29 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -89,9 +89,9 @@
       "source": "Nutrabay",
       "name": "Nutrabay Gold Hydrolyzed Pea Protein",
       "brand": "Nutrabay",
-      "mrp": 1049,
+      "mrp": 1099,
       "price": 799,
-      "discount_pct": 23.8,
+      "discount_pct": 27.3,
       "size_g": 500.0,
       "price_per_100g": 159.8,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
@@ -101,9 +101,9 @@
       "source": "Nutrabay",
       "name": "Nutrabay Gold Hydrolyzed Pea Protein",
       "brand": "Nutrabay",
-      "mrp": 1049,
+      "mrp": 1099,
       "price": 799,
-      "discount_pct": 23.8,
+      "discount_pct": 27.3,
       "size_g": 500.0,
       "price_per_100g": 159.8,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
@@ -135,18 +135,6 @@
     },
     {
       "source": "Nutrabay",
-      "name": "OSOAA Pea Protein Hydrolysate – Unflavoured",
-      "brand": "OSOAA",
-      "mrp": 2499,
-      "price": 899,
-      "discount_pct": 64.0,
-      "size_g": 1000.0,
-      "price_per_100g": 89.9,
-      "url": "https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-unflavoured-29g-protein-531g-bcaa-180g-fiber-per-serve/?pId=8064183",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
       "name": "Nakpro Nutrition Platinum Soy Protein Isolate",
       "brand": "Nakpro Nutrition",
       "mrp": 2300,
@@ -155,6 +143,18 @@
       "size_g": 1000.0,
       "price_per_100g": 89.9,
       "url": "https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "OSOAA Pea Protein Hydrolysate – Unflavoured",
+      "brand": "OSOAA",
+      "mrp": 2499,
+      "price": 899,
+      "discount_pct": 64.0,
+      "size_g": 1000.0,
+      "price_per_100g": 89.9,
+      "url": "https://nutrabay.com/product/osoaa-pea-protein-hydrolysate-unflavoured-29g-protein-531g-bcaa-180g-fiber-per-serve/?pId=8064183",
       "in_stock": true
     },
     {
@@ -587,7 +587,7 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut-sachet",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
@@ -695,7 +695,7 @@
       "size_g": 500.0,
       "price_per_100g": 339.8,
       "url": "https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
