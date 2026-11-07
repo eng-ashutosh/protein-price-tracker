@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06 16:27 IST",
+  "checked_at": "2026-11-07 15:46 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -42,23 +42,11 @@
       "name": "Nutrabay Pure Pea Protein Isolate",
       "brand": "Nutrabay",
       "mrp": 849,
-      "price": 549,
-      "discount_pct": 35.3,
-      "size_g": 500.0,
-      "price_per_100g": 109.8,
-      "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay BioAbsorb™ Whey Protein Powder | Clinically Tested 54% Better Protein Absorption | 26g Protein/Scoop | India's 1st Protein with ProDiFi™ for No Bloating | No Added Sugar",
-      "brand": "Nutrabay",
-      "mrp": 859,
       "price": 599,
-      "discount_pct": 30.3,
-      "size_g": 181.0,
-      "price_per_100g": 330.94,
-      "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444",
+      "discount_pct": 29.4,
+      "size_g": 500.0,
+      "price_per_100g": 119.8,
+      "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
       "in_stock": true
     },
     {
@@ -71,6 +59,18 @@
       "size_g": 500.0,
       "price_per_100g": 139.8,
       "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay BioAbsorb™ Whey Protein Powder | Clinically Tested 54% Better Protein Absorption | 26g Protein/Scoop | India's 1st Protein with ProDiFi™ for No Bloating | No Added Sugar",
+      "brand": "Nutrabay",
+      "mrp": 859,
+      "price": 749,
+      "discount_pct": 12.8,
+      "size_g": 181.0,
+      "price_per_100g": 413.81,
+      "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444",
       "in_stock": true
     },
     {
@@ -123,18 +123,6 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Pure Soy Protein Isolate",
-      "brand": "Nutrabay",
-      "mrp": 1349,
-      "price": 899,
-      "discount_pct": 33.4,
-      "size_g": 1000.0,
-      "price_per_100g": 89.9,
-      "url": "https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
       "name": "Nakpro Nutrition Platinum Soy Protein Isolate",
       "brand": "Nakpro Nutrition",
       "mrp": 2300,
@@ -182,6 +170,18 @@
       "in_stock": true
     },
     {
+      "source": "Nutrabay",
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
+      "price": 999,
+      "discount_pct": 7.4,
+      "size_g": 155.0,
+      "price_per_100g": 644.52,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
+      "in_stock": true
+    },
+    {
       "source": "Fast&Up",
       "name": "100% Pure & Natural Moringa Powder",
       "brand": "Fastandup",
@@ -203,7 +203,7 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/fast-up-plant-protein-assorted-pack",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Fast&Up",
@@ -435,6 +435,18 @@
     },
     {
       "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest",
+      "brand": "OZiva",
+      "mrp": 699.0,
+      "price": 599.0,
+      "discount_pct": 14.3,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest-copy",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
       "name": "Plant Protein + Pro-Digest (Assorted)",
       "brand": "OZiva",
       "mrp": 699.0,
@@ -520,18 +532,6 @@
     {
       "source": "OZiva",
       "name": "Vegan Collagen, Clinically Proven (Berry Orange / Starter Pack)",
-      "brand": "OZiva",
-      "mrp": 959.0,
-      "price": 719.0,
-      "discount_pct": 25.0,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://oziva.in/products/plant-based-collagen",
-      "in_stock": true
-    },
-    {
-      "source": "OZiva",
-      "name": "Vegan Collagen, Clinically Proven (Watermelon / Starter Pack)",
       "brand": "OZiva",
       "mrp": 959.0,
       "price": 719.0,
@@ -911,7 +911,7 @@
       "size_g": 227,
       "price_per_100g": 65.64,
       "url": "https://myfitness.co.in/products/chocolate-crispy",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "MyFitness",
