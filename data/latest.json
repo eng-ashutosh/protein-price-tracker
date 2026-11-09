@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08 15:56 IST",
+  "checked_at": "2026-11-09 17:08 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -911,7 +911,7 @@
       "size_g": 227,
       "price_per_100g": 65.64,
       "url": "https://myfitness.co.in/products/chocolate-crispy",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "MyFitness",
@@ -935,7 +935,7 @@
       "size_g": 375.0,
       "price_per_100g": 66.4,
       "url": "https://myfitness.co.in/products/pro-fitness-high-protein-chocolate-peanut-butter-oats-made-with-myfitness-chocolate-peanut-butter-27-protein-no-added-refined-sugar",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "MyFitness",
