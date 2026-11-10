@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-11-09 17:08 IST
+**Last checked:** 2026-11-10 16:46 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -40,10 +40,10 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | AS-IT-IS ATOM Performance Whey - 25g Protein per Serving - With Safed Musli, Mucuna & DigeZyme® Enzymes (Cookie delight / 45g) | ₹2,485 | ₹140 | 94% | - | ❌ | [view](https://asitisnutrition.com/products/as-it-is-atom-performance-whey-1kg-with-safed-musli-for-faster-recovery-highly-bioavailable) |
 | AS-IT-IS ATOM Performance Whey - 25g Protein per Serving - With Safed Musli, Mucuna & DigeZyme® Enzymes (Choco hazel fusion / 45g) | ₹2,485 | ₹140 | 94% | - | ❌ | [view](https://asitisnutrition.com/products/as-it-is-atom-performance-whey-1kg-with-safed-musli-for-faster-recovery-highly-bioavailable) |
 | AS-IT-IS ATOM Whey Protein - 27g Protein per Serving - DigeZyme® Enzymes & 1 Billion CFU Probiotics (Double Rich Chocolate / (36g Travel Sachet)) | ₹262 | ₹167 | 36% | ₹463.89 | ✅ | [view](https://asitisnutrition.com/products/atom-whey-protein) |
-| AS-IT-IS ONE Whey Protein Concentrate Sachets - 28g Protein per Serving - Unflavoured (35g Sachet (Pack of 1)) | ₹305 | ₹178 | 42% | ₹593.33 | ✅ | [view](https://asitisnutrition.com/products/whey-protein-30g-sachet) |
 | AS-IT-IS ATOM Nitro Whey with Creasure® - 33g Protein, 3g Creatine per Serving - With DigeZyme® Enzymes (Double Rich Chocolate / 45g) | ₹289 | ₹185 | 36% | - | ✅ | [view](https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa) |
 | AS-IT-IS ATOM Nitro Whey with Creasure® - 33g Protein, 3g Creatine per Serving - With DigeZyme® Enzymes (Kesar Kulfi / 45g) | ₹3,407 | ₹185 | 95% | - | ❌ | [view](https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa) |
 | AS-IT-IS ATOM Nitro Whey with Creasure® - 33g Protein, 3g Creatine per Serving - With DigeZyme® Enzymes (Classic Vanilla / 45g) | ₹3,407 | ₹185 | 95% | - | ❌ | [view](https://asitisnutrition.com/products/atom-nitro-whey-with-creatine-i-33g-protein-3g-creatine-7-4g-bcaa) |
+| AS-IT-IS ONE Whey Protein Concentrate Sachets - 28g Protein per Serving - Unflavoured (35g Sachet (Pack of 1)) | ₹305 | ₹217 | 29% | ₹723.33 | ✅ | [view](https://asitisnutrition.com/products/whey-protein-30g-sachet) |
 | AS-IT-IS ONE Whey Protein Concentrate Sachets - 28g Protein per Serving - Unflavoured (35g Sachet (Pack of 1) + Shaker) | ₹438 | ₹303 | 31% | ₹1010.00 | ❌ | [view](https://asitisnutrition.com/products/whey-protein-30g-sachet) |
 
 ## Fast&Up
@@ -81,16 +81,16 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | GNC Protein Popped Chips (40g / Peri Peri) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
 | GNC Protein Popped Chips (40g / Chilli and Cumin) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
 | GNC Protein Popped Chips (40g / Garlic Bread) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
-| Protein Crunch Wafer Bar 40gm (Peanut Butter) | ₹80 | ₹59 | 26% | ₹147.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
-| Protein Crunch Wafer Bar 40gm (Cookies & Cream) | ₹80 | ₹59 | 26% | ₹147.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
-| Protein Crunch Wafer Bar 40gm (Chocolate) | ₹80 | ₹59 | 26% | ₹147.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
-| Protein Crunch Wafer Bar 40gm (Strawberry) | ₹80 | ₹59 | 26% | ₹147.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
+| Protein Crunch Wafer Bar 40gm (Peanut Butter) | ₹80 | ₹69 | 14% | ₹172.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
+| Protein Crunch Wafer Bar 40gm (Cookies & Cream) | ₹80 | ₹69 | 14% | ₹172.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
+| Protein Crunch Wafer Bar 40gm (Chocolate) | ₹80 | ₹69 | 14% | ₹172.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
+| Protein Crunch Wafer Bar 40gm (Strawberry) | ₹80 | ₹69 | 14% | ₹172.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
 
 ## MyFitness
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (227g) | ₹159 | ₹149 | 6% | ₹65.64 | ❌ | [view](https://myfitness.co.in/products/chocolate-crispy) |
+| MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (227g) | ₹159 | ₹149 | 6% | ₹65.64 | ✅ | [view](https://myfitness.co.in/products/chocolate-crispy) |
 | Pro.Fitness High Protein Chocolate Oats - Dark Chocolate - Healthy Oats With Nuts, Seeds & Added Whey (375g) | ₹339 | ₹219 | 35% | ₹58.40 | ✅ | [view](https://myfitness.co.in/products/high-protein-oats-900g-27g-protein) |
 | Pro.Fitness High Protein Chocolate Peanut Butter Oats - Made with MyFitness Chocolate Peanut Butter - 27% Protein - No Added Refined Sugar (375g) | ₹349 | ₹249 | 29% | ₹66.40 | ✅ | [view](https://myfitness.co.in/products/pro-fitness-high-protein-chocolate-peanut-butter-oats-made-with-myfitness-chocolate-peanut-butter-27-protein-no-added-refined-sugar) |
 | Pro.Fitness Rolled Oats - 13% Protein - Healthy Oats With High Fiber and Zero Cholesterol (900g) | ₹320 | ₹269 | 16% | - | ✅ | [view](https://myfitness.co.in/products/pro-fitness-rolled-oats-900g) |
@@ -118,13 +118,13 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Natural Plant Protein (Coffee / 1 Box (500 g)) | ₹3,000 | ₹1,112 | 63% | ₹222.40 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
 | Natural Whey Protein Concentrate (Italian Ice Cream / 1 Box (300 g)) | ₹1,424 | ₹1,299 | 9% | ₹433.00 | ❌ | [view](https://naturaltein.in/products/whey-protein-concentrate) |
 | Natural Whey Protein Concentrate (Chocolate Biscoff / 1 Box (300 g)) | ₹1,424 | ₹1,399 | 2% | ₹466.33 | ❌ | [view](https://naturaltein.in/products/whey-protein-concentrate) |
-| Natural Plant Protein (Chocolate / 2 Boxes (1 kg)) | ₹6,000 | ₹1,600 | 73% | ₹160.00 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
-| Natural Plant Protein (Mango / 2 Boxes (1 kg)) | ₹6,000 | ₹1,600 | 73% | ₹160.00 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
-| Natural Plant Protein (Berry / 2 Boxes (1 kg)) | ₹6,000 | ₹1,600 | 73% | ₹160.00 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
-| Natural Plant Protein (Pista / 2 Boxes (1 kg)) | ₹6,000 | ₹1,600 | 73% | ₹160.00 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
-| Natural Plant Protein (Coffee / 2 Boxes (1 kg)) | ₹6,000 | ₹1,600 | 73% | ₹160.00 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
 | Natural Whey Protein Isolate (Pista Kulfi / 1 Box (300 g)) | ₹1,780 | ₹1,775 | 0% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
 | Natural Whey Protein Isolate (Vanilla / 1 Box (300 g)) | ₹1,780 | ₹1,775 | 0% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
+| Natural Whey Protein Isolate (Unflavoured / 1 Box (300 g)) | ₹3,000 | ₹1,775 | 41% | ₹591.67 | ✅ | [view](https://naturaltein.in/products/whey-protein-isolate) |
+| Natural Whey Protein Isolate (Strawberry Blast / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
+| Natural Whey Protein Isolate (Belgian Chocolate / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
+| Natural Whey Protein Isolate (Mango Delight / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
+| Natural Plant Protein (Chocolate / 2 Boxes (1 kg)) | ₹6,000 | ₹1,800 | 70% | ₹180.00 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
 
 ## Nutrabay
 
@@ -157,14 +157,14 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Pro-Collagen Protein Peptides Caramel - 250g | ₹799 | ₹433 | 46% | ₹173.20 | ✅ | [view](https://oziva.in/products/pro-collagen-protein-peptides-caramel-250g) |
 | Vegan Collagen, Clinically Proven (Watermelon / Starter Pack-125g) | ₹499 | ₹459 | 8% | ₹367.20 | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
 | Plant Protein + Pro-Digest | ₹699 | ₹599 | 14% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-copy) |
-| Plant Protein + Pro-Digest (Assorted) | ₹699 | ₹599 | 14% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
-| Plant Protein + Pro-Digest (Assorted / Starter Pack) | ₹699 | ₹599 | 14% | - | ✅ | [view](https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg) |
+| Plant Protein + Pro-Digest (Assorted) | ₹699 | ₹669 | 4% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
+| Plant Protein + Pro-Digest (Assorted / Starter Pack) | ₹699 | ₹669 | 4% | - | ✅ | [view](https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg) |
 | Plant Protein + Pro-Digest - Assorted Flavours (Pack of 1 (5 Sachets)) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-1) |
 | Plant Protein + Pro-Digest - Assorted Flavours (Pack of 2 (10 Sachets)) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-1) |
 | Plant Protein + Pro-Digest (Strawberry) | ₹699 | ₹699 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |
-| Vegan Collagen, Clinically Proven (Guava Glow / Starter Pack) | ₹959 | ₹719 | 25% | - | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
-| Vegan Collagen, Clinically Proven (Classic / Starter Pack) | ₹959 | ₹719 | 25% | - | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
-| Vegan Collagen, Clinically Proven (Berry Orange / Starter Pack) | ₹959 | ₹719 | 25% | - | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
+| Daily Protein Activ for Women (Classic Vanilla / Starter Pack) | ₹799 | ₹749 | 6% | - | ✅ | [view](https://oziva.in/products/daily-protein-activ-for-women-with-clean-whey-protein-multivitamins-tulsi-probiotics-for-improved-everyday-energy-stamina-bone-health-immune-health) |
+| Vegan Collagen, Clinically Proven (Guava Glow / Starter Pack) | ₹959 | ₹789 | 18% | - | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
+| Vegan Collagen, Clinically Proven (Classic / Starter Pack) | ₹959 | ₹789 | 18% | - | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
 
 ## Wellbeing Nutrition
 
