@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-11-11 16:31 IST
+**Last checked:** 2026-11-12 16:48 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -50,21 +50,21 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| 100% Pure & Natural Moringa Powder | ₹250 | ₹225 | 10% | - | ✅ | [view](https://in.fastandup.com/products/100-pure-natural-moringa-powder) |
+| 100% Pure & Natural Moringa Powder | ₹250 | ₹238 | 5% | - | ✅ | [view](https://in.fastandup.com/products/100-pure-natural-moringa-powder) |
 | Plant Protein - Assorted Pack | ₹270 | ₹243 | 10% | - | ❌ | [view](https://in.fastandup.com/products/fast-up-plant-protein-assorted-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 5) | ₹450 | ₹396 | 12% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 10) | ₹900 | ₹765 | 15% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
-| Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹800 | 50% | ₹160.00 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
-| Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹800 | 50% | ₹160.00 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 15) | ₹1,350 | ₹1,107 | 18% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Yeast Protein - Unflavoured - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-unflavoured-500g) |
 | Yeast Protein - Coffee - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-coffee-500g) |
 | Yeast Protein - Rich Chocolate - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ❌ | [view](https://in.fastandup.com/products/yeast-protein-rich-chocolate-500g) |
 | Yeast Protein - Cookies & Cream - 500g | ₹1,299 | ₹1,169 | 10% | ₹233.80 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-cookies-cream-500g) |
-| Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹1,558 | 50% | ₹155.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
-| Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹1,558 | 50% | ₹155.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
-| Plant Protein - Strawberry Blast - 25 Servings | ₹3,115 | ₹1,558 | 50% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-strawberry-25-servings) |
-| Plant Protein - Rich Chocolate - 1kg | ₹3,115 | ₹1,558 | 50% | ₹155.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg) |
+| Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,359 | 15% | ₹271.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
+| Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹1,359 | 15% | ₹271.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
+| Daily Fiber + Plant Protein Rich Chocolate Combo | ₹3,715 | ₹2,229 | 40% | - | ✅ | [view](https://in.fastandup.com/products/daily-fiber-plant-protein-rich-chocolate-combo) |
+| Yeast Protein - Coffee - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-coffee-1kg) |
+| Yeast Protein - Unflavoured - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-unflavoured-1kg) |
+| Yeast Protein - Rich Chocolate - 1kg | ₹2,499 | ₹2,249 | 10% | ₹224.90 | ✅ | [view](https://in.fastandup.com/products/yeast-protein-rich-chocolate-1kg) |
 
 ## GNC India
 
@@ -90,7 +90,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (227g) | ₹159 | ₹149 | 6% | ₹65.64 | ✅ | [view](https://myfitness.co.in/products/chocolate-crispy) |
+| MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (227g) | ₹159 | ₹149 | 6% | ₹65.64 | ❌ | [view](https://myfitness.co.in/products/chocolate-crispy) |
 | Pro.Fitness High Protein Chocolate Oats - Dark Chocolate - Healthy Oats With Nuts, Seeds & Added Whey (375g) | ₹339 | ₹219 | 35% | ₹58.40 | ✅ | [view](https://myfitness.co.in/products/high-protein-oats-900g-27g-protein) |
 | Pro.Fitness High Protein Chocolate Peanut Butter Oats - Made with MyFitness Chocolate Peanut Butter - 27% Protein - No Added Refined Sugar (375g) | ₹349 | ₹249 | 29% | ₹66.40 | ✅ | [view](https://myfitness.co.in/products/pro-fitness-high-protein-chocolate-peanut-butter-oats-made-with-myfitness-chocolate-peanut-butter-27-protein-no-added-refined-sugar) |
 | Pro.Fitness Rolled Oats - 13% Protein - Healthy Oats With High Fiber and Zero Cholesterol (900g) | ₹320 | ₹269 | 16% | - | ✅ | [view](https://myfitness.co.in/products/pro-fitness-rolled-oats-900g) |
@@ -156,15 +156,15 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Plant Protein + ACV | ₹338 | ₹338 | 0% | - | ✅ | [view](https://oziva.in/products/protein-acv) |
 | Pro-Collagen Protein Peptides Caramel - 250g | ₹799 | ₹433 | 46% | ₹173.20 | ✅ | [view](https://oziva.in/products/pro-collagen-protein-peptides-caramel-250g) |
 | Vegan Collagen, Clinically Proven (Watermelon / Starter Pack-125g) | ₹499 | ₹459 | 8% | ₹367.20 | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
-| Plant Protein + Pro-Digest | ₹699 | ₹599 | 14% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-copy) |
+| Plant Protein + Pro-Digest | ₹699 | ₹669 | 4% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-copy) |
 | Plant Protein + Pro-Digest (Assorted) | ₹699 | ₹669 | 4% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
 | Plant Protein + Pro-Digest (Assorted / Starter Pack) | ₹699 | ₹669 | 4% | - | ✅ | [view](https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg) |
 | Plant Protein + Pro-Digest - Assorted Flavours (Pack of 1 (5 Sachets)) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-1) |
 | Plant Protein + Pro-Digest - Assorted Flavours (Pack of 2 (10 Sachets)) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-1) |
 | Plant Protein + Pro-Digest (Strawberry) | ₹699 | ₹699 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |
-| Daily Protein Activ for Women (Classic Vanilla / Starter Pack) | ₹799 | ₹749 | 6% | - | ✅ | [view](https://oziva.in/products/daily-protein-activ-for-women-with-clean-whey-protein-multivitamins-tulsi-probiotics-for-improved-everyday-energy-stamina-bone-health-immune-health) |
 | Vegan Collagen, Clinically Proven (Guava Glow / Starter Pack) | ₹959 | ₹789 | 18% | - | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
 | Vegan Collagen, Clinically Proven (Classic / Starter Pack) | ₹959 | ₹789 | 18% | - | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
+| Vegan Collagen, Clinically Proven (Berry Orange / Starter Pack) | ₹959 | ₹789 | 18% | - | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
 
 ## Wellbeing Nutrition
 
