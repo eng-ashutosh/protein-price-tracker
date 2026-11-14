@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-11-13 16:33 IST
+**Last checked:** 2026-11-14 16:00 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -100,8 +100,8 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | MyFitness Peanut Butter - Natural Unsweetened - 25% Protein - Smooth - Zero Sugar Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-all-natural-peanut-butter-smooth) |
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-crispy) |
 | MyFitness Peanut Butter - Chocolate - 28% Protein - Smooth - Chocolate Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-smooth) |
-| MyFitness Peanut Butter - Original - 28% Protein - Crunchy - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-crunchy) |
-| MyFitness Peanut Butter - Original - 28% Protein - Smooth - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-smooth) |
+| MyFitness Peanut Butter - Original - 29% Protein - Crunchy - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-crunchy) |
+| MyFitness Peanut Butter - Original - 29% Protein - Smooth - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-smooth) |
 | MyFitness x Wonder Woman - Original Peanut Butter Smooth 510g - 29% Protein - High Protein (510g) | ₹379 | ₹279 | 26% | ₹54.71 | ✅ | [view](https://myfitness.co.in/products/myfitness-x-wonder-woman-original-peanut-butter-smooth-510g-29-protein-high-protein) |
 | MyFitness Peanut Butter - Chocolate - 25% Protein - Almond Crunch - Chocolate Peanut Butter Spread (510 g) | ₹379 | ₹279 | 26% | ₹54.71 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-with-almond-crunch) |
 | MyFitness x Batman - Chocolate Zero Peanut Butter Extra Crunchy - 27% Protein - Zero Added Sugar - High Protein (510 g) | ₹369 | ₹299 | 19% | ₹58.63 | ✅ | [view](https://myfitness.co.in/products/myfitness-zero-chocolate-peanut-butter-crunchy-zero-sugar-extra-crunch-510g-27g-protein-10g-fiber-tasty-healthy-nut-butter-spread-cholesterol-free-zero-trans-fat-crunchy-peanut-butter) |
@@ -111,7 +111,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
 | The Protein Dessert E-Cook Book by Naturaltein | ₹599 | ₹399 | 33% | - | ✅ | [view](https://naturaltein.in/products/the-protein-dessert-e-cook-book-by-naturaltein) |
-| Natural Plant Protein (Chocolate / 1 Box (500 g)) | ₹3,000 | ₹1,112 | 63% | ₹222.40 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
+| Natural Plant Protein (Chocolate / 1 Box (500 g)) | ₹3,000 | ₹1,112 | 63% | ₹222.40 | ❌ | [view](https://naturaltein.in/products/plant-protein) |
 | Natural Plant Protein (Mango / 1 Box (500 g)) | ₹3,000 | ₹1,112 | 63% | ₹222.40 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
 | Natural Plant Protein (Berry / 1 Box (500 g)) | ₹3,000 | ₹1,112 | 63% | ₹222.40 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
 | Natural Plant Protein (Pista / 1 Box (500 g)) | ₹3,000 | ₹1,112 | 63% | ₹222.40 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
@@ -124,7 +124,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Natural Whey Protein Isolate (Strawberry Blast / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
 | Natural Whey Protein Isolate (Belgian Chocolate / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
 | Natural Whey Protein Isolate (Mango Delight / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
-| Natural Plant Protein (Chocolate / 2 Boxes (1 kg)) | ₹6,000 | ₹1,800 | 70% | ₹180.00 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
+| Natural Plant Protein (Chocolate / 2 Boxes (1 kg)) | ₹6,000 | ₹1,800 | 70% | ₹180.00 | ❌ | [view](https://naturaltein.in/products/plant-protein) |
 
 ## Nutrabay
 
@@ -156,9 +156,9 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Plant Protein + ACV | ₹338 | ₹338 | 0% | - | ✅ | [view](https://oziva.in/products/protein-acv) |
 | Pro-Collagen Protein Peptides Caramel - 250g | ₹799 | ₹433 | 46% | ₹173.20 | ✅ | [view](https://oziva.in/products/pro-collagen-protein-peptides-caramel-250g) |
 | Vegan Collagen, Clinically Proven (Watermelon / Starter Pack-125g) | ₹499 | ₹459 | 8% | ₹367.20 | ✅ | [view](https://oziva.in/products/plant-based-collagen) |
-| Plant Protein + Pro-Digest | ₹699 | ₹689 | 1% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-copy) |
-| Plant Protein + Pro-Digest (Assorted) | ₹699 | ₹689 | 1% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
-| Plant Protein + Pro-Digest (Assorted / Starter Pack) | ₹699 | ₹689 | 1% | - | ✅ | [view](https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg) |
+| Plant Protein + Pro-Digest | ₹699 | ₹659 | 6% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-copy) |
+| Plant Protein + Pro-Digest (Assorted) | ₹699 | ₹659 | 6% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest) |
+| Plant Protein + Pro-Digest (Assorted / Starter Pack) | ₹699 | ₹659 | 6% | - | ✅ | [view](https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg) |
 | Plant Protein + Pro-Digest - Assorted Flavours (Pack of 1 (5 Sachets)) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-1) |
 | Plant Protein + Pro-Digest - Assorted Flavours (Pack of 2 (10 Sachets)) | ₹699 | ₹699 | 0% | - | ✅ | [view](https://oziva.in/products/plant-protein-pro-digest-1) |
 | Plant Protein + Pro-Digest (Strawberry) | ₹699 | ₹699 | 0% | - | ❌ | [view](https://oziva.in/products/plant-protein-pro-digest) |

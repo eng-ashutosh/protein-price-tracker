@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13 16:33 IST",
+  "checked_at": "2026-11-14 16:00 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -438,8 +438,8 @@
       "name": "Plant Protein + Pro-Digest",
       "brand": "OZiva",
       "mrp": 699.0,
-      "price": 689.0,
-      "discount_pct": 1.4,
+      "price": 659.0,
+      "discount_pct": 5.7,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://oziva.in/products/plant-protein-pro-digest-copy",
@@ -450,8 +450,8 @@
       "name": "Plant Protein + Pro-Digest (Assorted)",
       "brand": "OZiva",
       "mrp": 699.0,
-      "price": 689.0,
-      "discount_pct": 1.4,
+      "price": 659.0,
+      "discount_pct": 5.7,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://oziva.in/products/plant-protein-pro-digest",
@@ -462,8 +462,8 @@
       "name": "Plant Protein + Pro-Digest (Assorted / Starter Pack)",
       "brand": "OZiva",
       "mrp": 699.0,
-      "price": 689.0,
-      "discount_pct": 1.4,
+      "price": 659.0,
+      "discount_pct": 5.7,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg",
@@ -1023,7 +1023,7 @@
     },
     {
       "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Original | 28% Protein | Crunchy | Classic Peanut Butter Spread (510 g)",
+      "name": "MyFitness Peanut Butter - Original | 29% Protein | Crunchy | Classic Peanut Butter Spread (510 g)",
       "brand": "myfitness-official-store",
       "mrp": 319.0,
       "price": 275.0,
@@ -1035,7 +1035,7 @@
     },
     {
       "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Original | 28% Protein | Smooth | Classic Peanut Butter Spread (510 g)",
+      "name": "MyFitness Peanut Butter - Original | 29% Protein | Smooth | Classic Peanut Butter Spread (510 g)",
       "brand": "myfitness-official-store",
       "mrp": 319.0,
       "price": 275.0,
@@ -1103,7 +1103,7 @@
       "size_g": 500.0,
       "price_per_100g": 222.4,
       "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Naturaltein",
@@ -1259,7 +1259,7 @@
       "size_g": 1000.0,
       "price_per_100g": 180.0,
       "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "GNC India",
