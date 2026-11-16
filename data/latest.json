@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15 16:29 IST",
+  "checked_at": "2026-11-16 16:57 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -47,18 +47,6 @@
       "size_g": 500.0,
       "price_per_100g": 129.8,
       "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Wellness Vegan Plant Protein Powder + Superfoods",
-      "brand": "Nutrabay",
-      "mrp": 1199,
-      "price": 799,
-      "discount_pct": 33.4,
-      "size_g": 500.0,
-      "price_per_100g": 159.8,
-      "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
       "in_stock": true
     },
     {
@@ -161,9 +149,9 @@
       "source": "Nutrabay",
       "name": "Naturaltein Plant Protein",
       "brand": "Naturaltein",
-      "mrp": 3000,
+      "mrp": 2225,
       "price": 999,
-      "discount_pct": 66.7,
+      "discount_pct": 55.1,
       "size_g": 500.0,
       "price_per_100g": 199.8,
       "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
@@ -171,14 +159,26 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Naturaltein Plant Protein",
-      "brand": "Naturaltein",
-      "mrp": 2225,
-      "price": 999,
-      "discount_pct": 55.1,
-      "size_g": 500.0,
-      "price_per_100g": 199.8,
-      "url": "https://nutrabay.com/product/naturaltein-vegan-plant-protein/?pId=6742490",
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
+      "price": 1008,
+      "discount_pct": 6.6,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
+      "brand": "Optimum Nutrition",
+      "mrp": 1079,
+      "price": 1008,
+      "discount_pct": 6.6,
+      "size_g": 155.0,
+      "price_per_100g": 650.32,
+      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
       "in_stock": true
     },
     {
@@ -438,8 +438,8 @@
       "name": "Plant Protein + Pro-Digest",
       "brand": "OZiva",
       "mrp": 699.0,
-      "price": 659.0,
-      "discount_pct": 5.7,
+      "price": 689.0,
+      "discount_pct": 1.4,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://oziva.in/products/plant-protein-pro-digest-copy",
@@ -450,8 +450,8 @@
       "name": "Plant Protein + Pro-Digest (Assorted)",
       "brand": "OZiva",
       "mrp": 699.0,
-      "price": 659.0,
-      "discount_pct": 5.7,
+      "price": 689.0,
+      "discount_pct": 1.4,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://oziva.in/products/plant-protein-pro-digest",
@@ -462,8 +462,8 @@
       "name": "Plant Protein + Pro-Digest (Assorted / Starter Pack)",
       "brand": "OZiva",
       "mrp": 699.0,
-      "price": 659.0,
-      "discount_pct": 5.7,
+      "price": 689.0,
+      "discount_pct": 1.4,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://oziva.in/products/oziva-bioactive-plant-protein-with-25g-vegan-protein-5-5-bcaas-100-rda-vitamins-minerals-ayurvedic-herbs-for-better-endurance-stamina-muscle-recovery-1-kg",
@@ -831,6 +831,18 @@
     },
     {
       "source": "AS-IT-IS Nutrition",
+      "name": "AS-IT-IS ATOM Whey Protein XL | 27g Protein per Serving | DigeZyme® Enzymes & 1 Billion CFU Probiotics (36g Sachet / Double Rich Chocolate)",
+      "brand": "AS-IT-IS Nutrition",
+      "mrp": 234.0,
+      "price": 149.0,
+      "discount_pct": 36.3,
+      "size_g": 36.0,
+      "price_per_100g": 413.89,
+      "url": "https://asitisnutrition.com/products/atom-whey-protein-xl-with-digezyme®-fermented-yeast-protein",
+      "in_stock": false
+    },
+    {
+      "source": "AS-IT-IS Nutrition",
       "name": "AS-IT-IS ATOM Whey Protein | 27g Protein per Serving | DigeZyme® Enzymes & 1 Billion CFU Probiotics (Double Rich Chocolate / (36g Travel Sachet))",
       "brand": "AS-IT-IS Nutrition",
       "mrp": 262.0,
@@ -888,18 +900,6 @@
       "price_per_100g": 723.33,
       "url": "https://asitisnutrition.com/products/whey-protein-30g-sachet",
       "in_stock": true
-    },
-    {
-      "source": "AS-IT-IS Nutrition",
-      "name": "AS-IT-IS ONE Whey Protein Concentrate Sachets | 28g Protein per Serving | Unflavoured (35g Sachet (Pack of 1) + Shaker)",
-      "brand": "AS-IT-IS Nutrition",
-      "mrp": 438.0,
-      "price": 303.0,
-      "discount_pct": 30.8,
-      "size_g": 30,
-      "price_per_100g": 1010.0,
-      "url": "https://asitisnutrition.com/products/whey-protein-30g-sachet",
-      "in_stock": false
     },
     {
       "source": "MyFitness",
