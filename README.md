@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-11-17 17:26 IST
+**Last checked:** 2026-11-18 17:17 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -78,9 +78,9 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | GNC Protein Wafer Bar (Peanut butter) (Pack of 1 / Peanut Butter) | ₹59 | ₹55 | 7% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-peanut-butter) |
 | GNC Protein Wafer Bar (Coffee) (Pack of 1 / Coffee) | ₹59 | ₹55 | 7% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-coffee) |
 | GNC Protein Wafer Bar (40g / Chocolate) | ₹60 | ₹55 | 8% | ₹137.50 | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar-upsell) |
-| GNC Protein Popped Chips (40g / Peri Peri) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
-| GNC Protein Popped Chips (40g / Chilli and Cumin) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
-| GNC Protein Popped Chips (40g / Garlic Bread) | ₹75 | ₹59 | 21% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
+| GNC Protein Popped Chips (40g / Peri Peri) | ₹60 | ₹59 | 2% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
+| GNC Protein Popped Chips (40g / Chilli and Cumin) | ₹60 | ₹59 | 2% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
+| GNC Protein Popped Chips (40g / Garlic Bread) | ₹60 | ₹59 | 2% | ₹147.50 | ✅ | [view](https://gnc.in/products/gnc-protein-popped-chips) |
 | Protein Crunch Wafer Bar 40gm (Peanut Butter) | ₹80 | ₹69 | 14% | ₹172.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
 | Protein Crunch Wafer Bar 40gm (Cookies & Cream) | ₹80 | ₹69 | 14% | ₹172.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
 | Protein Crunch Wafer Bar 40gm (Chocolate) | ₹80 | ₹69 | 14% | ₹172.50 | ✅ | [view](https://gnc.in/products/protein-crunch-wafer-bar-40gm) |
@@ -180,11 +180,11 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Creatine Monohydrate - 100g - 300mg Taurine - Unflavoured (Pack of 2) | ₹1,098 | ₹1,098 | 0% | ₹1098.00 | ✅ | [view](https://wellbeingnutrition.com/products/creatine-monohydrate-unflavored) |
 | Whey Protein Blend Swiss Chocolate Sachets (Pack of 12) | ₹1,399 | ₹1,119 | 20% | - | ✅ | [view](https://wellbeingnutrition.com/products/whey-protein-blend-swiss-chocolate-sachets) |
 | Creatine Monohydrate + HCL - 100g - 300mg Taurine - Unflavoured (Pack of 2) | ₹1,298 | ₹1,298 | 0% | ₹1298.00 | ✅ | [view](https://wellbeingnutrition.com/products/creatine-monohydrate-hcl-100g-unflavored) |
-| Biofermented Yeast Protein Isolate 31g - 500g - Unflavoured (Pack of 1) | ₹1,799 | ₹1,349 | 25% | ₹269.80 | ✅ | [view](https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g) |
+| Biofermented Yeast Protein Isolate 31g - 500g - Unflavoured (Pack of 1) | ₹1,799 | ₹1,349 | 25% | ₹269.80 | ❌ | [view](https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g) |
 | Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes - French Vanilla (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-french-vanilla-500g) |
 | Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes -Mixed Berry (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-mixed-berry-500g) |
 | Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes -Dark Chocolate (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-dark-chocolate-500g) |
-| Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes - Cold Coffee (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-cold-coffee-500g) |
+| Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes - Cold Coffee (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ❌ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-cold-coffee-500g) |
 
 
 *₹/100g is price per 100g of product weight, not per gram of protein (macros aren't available from these feeds). Prices are snapshots at check time and may have changed since — always verify on the retailer's site.*

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17 17:26 IST",
+  "checked_at": "2026-11-18 17:17 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -671,7 +671,7 @@
       "size_g": 500.0,
       "price_per_100g": 269.8,
       "url": "https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Wellbeing Nutrition",
@@ -719,7 +719,7 @@
       "size_g": 500.0,
       "price_per_100g": 284.8,
       "url": "https://wellbeingnutrition.com/products/yeast-protein-powder-cold-coffee-500g",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "AS-IT-IS Nutrition",
@@ -1361,9 +1361,9 @@
       "source": "GNC India",
       "name": "GNC Protein Popped Chips (40g / Peri Peri)",
       "brand": "GNC India",
-      "mrp": 75.0,
+      "mrp": 60.0,
       "price": 59.0,
-      "discount_pct": 21.3,
+      "discount_pct": 1.7,
       "size_g": 40.0,
       "price_per_100g": 147.5,
       "url": "https://gnc.in/products/gnc-protein-popped-chips",
@@ -1373,9 +1373,9 @@
       "source": "GNC India",
       "name": "GNC Protein Popped Chips (40g / Chilli and Cumin)",
       "brand": "GNC India",
-      "mrp": 75.0,
+      "mrp": 60.0,
       "price": 59.0,
-      "discount_pct": 21.3,
+      "discount_pct": 1.7,
       "size_g": 40.0,
       "price_per_100g": 147.5,
       "url": "https://gnc.in/products/gnc-protein-popped-chips",
@@ -1385,9 +1385,9 @@
       "source": "GNC India",
       "name": "GNC Protein Popped Chips (40g / Garlic Bread)",
       "brand": "GNC India",
-      "mrp": 75.0,
+      "mrp": 60.0,
       "price": 59.0,
-      "discount_pct": 21.3,
+      "discount_pct": 1.7,
       "size_g": 40.0,
       "price_per_100g": 147.5,
       "url": "https://gnc.in/products/gnc-protein-popped-chips",
