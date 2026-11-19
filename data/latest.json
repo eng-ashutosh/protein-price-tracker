@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18 17:17 IST",
+  "checked_at": "2026-11-19 17:14 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -186,8 +186,8 @@
       "name": "100% Pure & Natural Moringa Powder",
       "brand": "Fastandup",
       "mrp": 250.0,
-      "price": 238.0,
-      "discount_pct": 4.8,
+      "price": 213.0,
+      "discount_pct": 14.8,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/100-pure-natural-moringa-powder",
@@ -411,6 +411,18 @@
     },
     {
       "source": "OZiva",
+      "name": "Plant Protein + Pro-Digest Assorted flavour | Sachets of 5",
+      "brand": "OZiva",
+      "mrp": 699.0,
+      "price": 433.0,
+      "discount_pct": 38.1,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://oziva.in/products/plant-protein-pro-digest-copy-1",
+      "in_stock": true
+    },
+    {
+      "source": "OZiva",
       "name": "Pro-Collagen Protein Peptides Caramel | 250g",
       "brand": "OZiva",
       "mrp": 799.0,
@@ -530,18 +542,6 @@
       "in_stock": true
     },
     {
-      "source": "OZiva",
-      "name": "Daily Protein Activ for Women (Classic Vanilla / Starter Pack)",
-      "brand": "OZiva",
-      "mrp": 799.0,
-      "price": 799.0,
-      "discount_pct": 0.0,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://oziva.in/products/daily-protein-activ-for-women-with-clean-whey-protein-multivitamins-tulsi-probiotics-for-improved-everyday-energy-stamina-bone-health-immune-health",
-      "in_stock": true
-    },
-    {
       "source": "Wellbeing Nutrition",
       "name": "Kids Protein Vanilla Free Sachet",
       "brand": "Wellbeing Nutrition",
@@ -639,18 +639,6 @@
     },
     {
       "source": "Wellbeing Nutrition",
-      "name": "Whey Protein Blend Swiss Chocolate Sachets (Pack of 12)",
-      "brand": "Wellbeing Nutrition",
-      "mrp": 1399.0,
-      "price": 1119.0,
-      "discount_pct": 20.0,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://wellbeingnutrition.com/products/whey-protein-blend-swiss-chocolate-sachets",
-      "in_stock": true
-    },
-    {
-      "source": "Wellbeing Nutrition",
       "name": "Creatine Monohydrate + HCL | 100g | 300mg Taurine | Unflavoured (Pack of 2)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1298.0,
@@ -720,6 +708,18 @@
       "price_per_100g": 284.8,
       "url": "https://wellbeingnutrition.com/products/yeast-protein-powder-cold-coffee-500g",
       "in_stock": false
+    },
+    {
+      "source": "Wellbeing Nutrition",
+      "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Dark Chocolate Hazelnut (Pack of 1)",
+      "brand": "Wellbeing Nutrition",
+      "mrp": 1799.0,
+      "price": 1799.0,
+      "discount_pct": 0.0,
+      "size_g": 500.0,
+      "price_per_100g": 359.8,
+      "url": "https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut",
+      "in_stock": true
     },
     {
       "source": "AS-IT-IS Nutrition",
@@ -903,18 +903,6 @@
     },
     {
       "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Chocolate | 26% Protein | Crispy | Chocolate Peanut Butter Spread (227g)",
-      "brand": "MYFITNESS",
-      "mrp": 159.0,
-      "price": 149.0,
-      "discount_pct": 6.3,
-      "size_g": 227,
-      "price_per_100g": 65.64,
-      "url": "https://myfitness.co.in/products/chocolate-crispy",
-      "in_stock": true
-    },
-    {
-      "source": "MyFitness",
       "name": "Pro.Fitness High Protein Chocolate Oats | Dark Chocolate | Healthy Oats With Nuts, Seeds & Added Whey (375g)",
       "brand": "MYFITNESS",
       "mrp": 339.0,
@@ -1080,6 +1068,18 @@
       "price_per_100g": 58.63,
       "url": "https://myfitness.co.in/products/myfitness-zero-chocolate-peanut-butter-crunchy-zero-sugar-extra-crunch-510g-27g-protein-10g-fiber-tasty-healthy-nut-butter-spread-cholesterol-free-zero-trans-fat-crunchy-peanut-butter",
       "in_stock": true
+    },
+    {
+      "source": "MyFitness",
+      "name": "MyFitness x Batman | Chocolate Zero Peanut Butter Extra Crunchy | 27% Protein | Zero Added Sugar | High Protein (510gx2)",
+      "brand": "MYFITNESS",
+      "mrp": 369.0,
+      "price": 299.0,
+      "discount_pct": 19.0,
+      "size_g": 510,
+      "price_per_100g": 58.63,
+      "url": "https://myfitness.co.in/products/myfitness-zero-chocolate-peanut-butter-crunchy-zero-sugar-extra-crunch-510g-27g-protein-10g-fiber-tasty-healthy-nut-butter-spread-cholesterol-free-zero-trans-fat-crunchy-peanut-butter",
+      "in_stock": false
     },
     {
       "source": "Naturaltein",
