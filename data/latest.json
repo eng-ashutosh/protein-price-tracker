@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20 17:14 IST",
+  "checked_at": "2026-11-21 16:39 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -695,7 +695,7 @@
       "size_g": 500.0,
       "price_per_100g": 284.8,
       "url": "https://wellbeingnutrition.com/products/yeast-protein-powder-dark-chocolate-500g",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Wellbeing Nutrition",
@@ -1259,7 +1259,7 @@
       "size_g": 1000.0,
       "price_per_100g": 180.0,
       "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "GNC India",

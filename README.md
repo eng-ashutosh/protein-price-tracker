@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-11-20 17:14 IST
+**Last checked:** 2026-11-21 16:39 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -124,7 +124,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Natural Whey Protein Isolate (Strawberry Blast / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
 | Natural Whey Protein Isolate (Belgian Chocolate / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
 | Natural Whey Protein Isolate (Mango Delight / 1 Box (300 g)) | ₹4,805 | ₹1,775 | 63% | ₹591.67 | ❌ | [view](https://naturaltein.in/products/whey-protein-isolate) |
-| Natural Plant Protein (Chocolate / 2 Boxes (1 kg)) | ₹6,000 | ₹1,800 | 70% | ₹180.00 | ❌ | [view](https://naturaltein.in/products/plant-protein) |
+| Natural Plant Protein (Chocolate / 2 Boxes (1 kg)) | ₹6,000 | ₹1,800 | 70% | ₹180.00 | ✅ | [view](https://naturaltein.in/products/plant-protein) |
 
 ## Nutrabay
 
@@ -182,7 +182,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Biofermented Yeast Protein Isolate 31g - 500g - Unflavoured (Pack of 1) | ₹1,799 | ₹1,349 | 25% | ₹269.80 | ❌ | [view](https://wellbeingnutrition.com/products/unflavoured-yeast-protein-powder-500g) |
 | Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes - French Vanilla (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-french-vanilla-500g) |
 | Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes -Mixed Berry (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-mixed-berry-500g) |
-| Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes -Dark Chocolate (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ✅ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-dark-chocolate-500g) |
+| Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes -Dark Chocolate (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ❌ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-dark-chocolate-500g) |
 | Biofermented Yeast Protein Isolate 24g- 500g -2B CFU Probiotics- 3 Digestive Enzymes - Cold Coffee (Pack of 1) | ₹1,899 | ₹1,424 | 25% | ₹284.80 | ❌ | [view](https://wellbeingnutrition.com/products/yeast-protein-powder-cold-coffee-500g) |
 | Plant Protein 22g - 500g - 3B CFU Probiotics - Dark Chocolate Hazelnut (Pack of 1) | ₹1,799 | ₹1,799 | 0% | ₹359.80 | ✅ | [view](https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut) |
 
